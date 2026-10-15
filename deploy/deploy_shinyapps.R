@@ -10,7 +10,7 @@ stopifnot(file.exists(file.path(cache_dir, "manifest.csv")))
 b <- file.path(tempdir(), "inectab-bundle")
 unlink(b, recursive = TRUE); dir.create(file.path(b, "pkg"), recursive = TRUE)
 file.copy(c("R", "inst", "DESCRIPTION", "LICENSE"), file.path(b, "pkg"), recursive = TRUE)
-file.copy("deploy/app.R", b)
+file.copy(c("deploy/app.R", "deploy/.renvignore"), b)
 file.copy(cache_dir, b, recursive = TRUE)
 file.rename(file.path(b, basename(cache_dir)), file.path(b, "cache"))
 rsconnect::deployApp(b, appName = app_name, appTitle = "INEC ICD-10 tabulator (Ecuador)",

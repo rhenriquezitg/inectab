@@ -116,7 +116,7 @@ The real-data tests compare each harmonized file with counts computed independen
 
 ## Online app
 
-The app is deployed to shinyapps.io with `deploy/deploy_shinyapps.R`, which bundles the package code and a cache built with `build_cache()`. The cache is not stored in this repository.
+Live at <https://0wh4nr-rodrigo-henriquez.shinyapps.io/inectab/>. The app is deployed to shinyapps.io with `deploy/deploy_shinyapps.R`, which bundles the package code and a cache built with `build_cache()`. The cache is not stored in this repository.
 
 ## Data and license
 
