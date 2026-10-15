@@ -1,0 +1,5 @@
+change,std_var,raw,detail
+variable_added,,muj_fertil,
+variable_added,,Numeracion,
+variable_removed,,Numeración,
+label_changed,area_res,1,"""Urbana"" -> ""Urbano"""

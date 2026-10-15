@@ -1,0 +1,5 @@
+change,std_var,raw,detail
+code_removed,prov_res,90,
+label_changed,prov_res,20,"""Galapagos"" -> ""Galápagos"""
+code_removed,prov_occ,90,
+label_changed,prov_occ,20,"""Galapagos"" -> ""Galápagos"""

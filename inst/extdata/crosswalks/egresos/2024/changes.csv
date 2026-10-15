@@ -1,0 +1,6 @@
+change,std_var,raw,detail
+variable_added,,dis_pac,
+variable_added,,tipo_seg,
+code_added,sex,3,
+label_changed,age_unit,9,"""Ignorado"" -> ""Sin información"""
+code_removed,prov_occ,88,

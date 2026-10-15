@@ -1,0 +1,7 @@
+change,std_var,raw,detail
+variable_added,,DELC,
+variable_added,,LC,
+variable_added,,LCD,
+variable_added,,TIPOREG,
+variable_removed,,CCANCERU,
+variable_removed,,DISED,

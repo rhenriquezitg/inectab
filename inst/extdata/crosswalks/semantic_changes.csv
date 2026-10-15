@@ -1,0 +1,29 @@
+dataset,year,type,std_var,codes,description
+defunciones,2000,scope,,,"Files 2000-2013 contain only deaths that occurred and were registered in the file year. From 2014, files are by registration year and include late registrations of earlier deaths."
+defunciones,2003,code_meaning,prov_res/prov_occ,90,"Code 90 = Exterior in 2000-2003 (label in 2003; canton 0). From 2004, 88 = Exterior and 90 = Zonas no delimitadas."
+defunciones,2004,code_meaning,prov_res/prov_occ,"88, 90",88 Exterior appears; 90 now means Zonas no delimitadas (cantons 1-4).
+defunciones,2008,geography,prov_res/prov_occ,"23, 24","Provinces 23 Santo Domingo de los Tsachilas and 24 Santa Elena first used. Before: cantons 1706, 0917, 0926, 0915. See geo_changes.csv."
+defunciones,2008,geography,cant_res/cant_occ,0808,La Concordia moves from zona no delimitada (9002) to Esmeraldas (0808).
+defunciones,2008,icd,icd10,causa4,causa4 introduced. 2000-2007 cause is built from causa+causa1 or codcausa.
+defunciones,2011,format,all coded,,"Coded variables stored as 2-character text (""01"", ""99"") in 2011 only. Canton becomes 4-digit DPA."
+defunciones,2011,code_meaning,area_res,3,Periferica category no longer used.
+defunciones,2012,code_meaning,place_occ,3-7,Lugar de ocurrencia expands from 6 to 7 categories (Junta de Beneficencia separated). Harmonized by collapsing 3+4.
+defunciones,2013,code_meaning,age_value,999,"Missing age sentinel changes from 99 to 999. Ages above 99 recorded from 2013; before, the top value is 99 and ages >= 98 heap there."
+defunciones,2014,geography,cant_res/cant_occ,2302,La Concordia moves from Esmeraldas (0808) to Santo Domingo (2302).
+defunciones,2014,code_meaning,age_value,0 hours,Age 0 hours allowed (< 1 hour).
+defunciones,2015,removed,cant_res,"cant_res, parr_res",Canton and parish of residence dropped. Residence is province-level only from 2015.
+defunciones,2018,geography,prov_res/prov_occ,90,Zonas no delimitadas no longer used.
+defunciones,2019,label,event_year,anio_fall,"Variable label wrongly says ""Anio de nacimiento""; values are years of death."
+egresos,2000,code_meaning,prov_res,90,Code 90 = Exterior (canton 00). No separate code for zonas no delimitadas.
+egresos,2001,code_meaning,prov_res/prov_occ,"50, 90","50 = Zonas no delimitadas, 90 = Exterior (labels in 2002-2003). Canton within 50 not identifiable."
+egresos,2002,variable,cant_occ,CANUBIES,Canton of the establishment first available.
+egresos,2004,code_meaning,prov_res/prov_occ,"88, 90","88 = Exterior, 90 = Zonas no delimitadas from 2004."
+egresos,2004,code_meaning,age_value,98,"Age in years top-coded at 98 in 2004-2012 (labels ""1 a 98""); 99 in 2000-2003. Open-ended from 2013."
+egresos,2008,geography,prov_res/prov_occ,"23, 24",Provinces 23 and 24 first used; see geo_changes.csv.
+egresos,2013,variable,event_year,anio_egr,"Explicit discharge year from 2013. Before, the statistical year is used (equal by design)."
+egresos,2014,geography,cant_res/cant_occ,2302,La Concordia moves from Esmeraldas (0808) to Santo Domingo (2302).
+egresos,2015,code_meaning,age_unit,1-4,"Age unit recoded: 2000-2014 1 dias, 2 meses, 3 anios, 9 ignorado; 2015+ 1 horas, 2 dias, 3 meses, 4 anios, 9 sin informacion. Same code, different meaning: never pool raw codes."
+egresos,2015,variable,area_res,area_res,Area of residence first available.
+egresos,2017,code_meaning,sex,3,Sex 3 Indeterminado appears (1-5 records a year).
+egresos,2017,icd,icd10,5 characters,Diagnosis codes with a 5th character appear (S and M chapters). icd10 keeps 4.
+egresos,2018,geography,prov_res,90,Zonas no delimitadas no longer used.

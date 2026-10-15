@@ -1,0 +1,5 @@
+change,std_var,raw,detail
+label_changed,prov_occ,23,"""STO DOMINGO"" -> ""STO DOMINGO DE LOS TSACHILAS"""
+label_changed,discharge_cond,2,"""MENOS DE 48 HORAS"" -> ""Fallecido < 48H"""
+label_changed,discharge_cond,3,"""48 HORAS Y MAS"" -> ""Fallecido 48H y más"""
+label_changed,discharge_cond,1,"""ALTAS"" -> ""Alta"""

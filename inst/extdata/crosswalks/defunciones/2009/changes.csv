@@ -1,0 +1,9 @@
+change,std_var,raw,detail
+variable_added,,AUTOPCIA,
+variable_added,,ETNIA,
+variable_added,,FDAL,
+variable_added,,MUE_VIOL,
+variable_removed,,ATENCION,
+variable_removed,,CONSULTA,
+variable_removed,,MESES,
+variable_case_changed,,CAUSA667 CAUSA80 CAUSA103,3 variables change letter case only

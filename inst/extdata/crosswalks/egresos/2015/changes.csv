@@ -1,0 +1,18 @@
+change,std_var,raw,detail
+variable_added,area_res,area_res,
+variable_added,,area_ubi,
+variable_added,,cod_pais,
+variable_added,,esp_egrpa,
+variable_added,,nac_pac,
+variable_added,,nom_pais,
+variable_removed,,cod_est,
+variable_removed,,dis_pac,
+std_var_now_available,area_res,area_res,
+code_added,age_unit,4 9,
+label_changed,age_unit,2,"""Meses (1 a 11 meses de edad)"" -> ""Días (1 a 28 días de edad)"""
+label_changed,age_unit,3,"""Años (1 a 115 años de edad)"" -> ""Meses (1 a 11 meses de edad)"""
+label_changed,age_unit,1,"""Días (1 a 28 días de edad)"" -> ""Horas (1 a 23 horas de edad)"""
+label_changed,discharge_cond,2,"""Fallecido < 48H"" -> ""Fallecido menos de 48 horas"""
+label_changed,discharge_cond,3,"""Fallecido 48H y más"" -> ""Fallecido en 48 horas y más"""
+label_changed,discharge_cond,1,"""Alta"" -> ""Vivo"""
+label_changed,sector,3,"""Privado fin fines de lucro"" -> ""Privado sin fines de lucro"""

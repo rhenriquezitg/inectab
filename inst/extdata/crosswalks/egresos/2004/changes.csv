@@ -1,0 +1,6 @@
+change,std_var,raw,detail
+variable_removed,,ESTSALUD,
+code_added,prov_res,88,
+code_removed,prov_res,50,
+label_changed,prov_res,90,"""EXTRANJERO"" -> ""ZONAS NO DELIMITADAS"""
+code_removed,prov_occ,50,

@@ -1,0 +1,16 @@
+change,std_var,raw,detail
+variable_added,,mort_mat,
+variable_added,,muj_fertil,
+variable_added,,Obser_mort_mat,
+variable_removed,cant_res,cant_res,
+variable_removed,,mor_mat,
+variable_removed,,mor_relac,
+variable_removed,,ofi_insc,
+variable_removed,,parent_fall,
+variable_removed,,parr_res,
+std_var_no_longer_available,cant_res,cant_res,set to NA from this year
+label_changed,place_occ,3,"""Establecimientos de la Junta de Beneficiencia de Guayaquil"" -> ""Establecimiento de la Junta de Beneficencia"""
+label_changed,place_occ,5,"""Hospital Clínica/ Consultorio privados"" -> ""Hospital, clínica o consultorio particular"""
+label_changed,place_occ,4,"""Otro establecimiento público"" -> ""Otro establecimiento del estado"""
+label_changed,place_occ,2,"""Establecimientos del IESS"" -> ""Establecimiento del I.E.S.S."""
+label_changed,place_occ,1,"""Establecimientos del Ministerio de Salud Pública"" -> ""Establecimiento del Ministerio de Salud"""

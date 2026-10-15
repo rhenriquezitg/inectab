@@ -1,0 +1,42 @@
+change,std_var,raw,detail
+variable_added,event_year,anio_egr,
+variable_added,cant_res,cant_res,
+variable_added,cant_occ,cant_ubi,
+variable_added,age_unit,cod_edad,
+variable_added,age_value,edad,
+variable_added,,fecha_egr,
+variable_added,,fecha_ingr,
+variable_added,,parr_res,
+variable_added,,parr_ubi,
+variable_added,prov_res,prov_res,
+variable_added,prov_occ,prov_ubi,
+variable_added,sex,sexo,
+variable_removed,,Ani_inv,
+variable_removed,,Cant_pac,
+variable_removed,,Cant_ubie,
+variable_removed,,Cond_edad,
+variable_removed,,Edad_pac,
+variable_removed,,Parr_pac,
+variable_removed,,Parr_ubie,
+variable_removed,,Prov_pac,
+variable_removed,,Prov_ubie,
+variable_removed,,Sexo_pac,
+variable_case_changed,,cod_est clase tipo entidad sector mes_inv dia_ingr mes_ingr ...,18 variables change letter case only
+source_renamed,sex,Sexo_pac -> sexo,
+source_renamed,age_value,Edad_pac -> edad,
+source_renamed,age_unit,Cond_edad -> cod_edad,
+source_renamed,prov_res,Prov_pac -> prov_res,
+source_renamed,cant_res,Cant_pac -> cant_res,
+source_renamed,prov_occ,Prov_ubie -> prov_ubi,
+source_renamed,cant_occ,Cant_ubie -> cant_ubi,
+source_renamed,event_year,Ani_inv -> anio_egr,
+label_changed,age_unit,3,"""Años (1 a 98 años de edad)"" -> ""Anios (1 a 115 anios de edad)"""
+label_changed,age_unit,1,"""Días (1 a 29 días de edad)"" -> ""Dias (1 a 29 dias de edad)"""
+label_changed,prov_res,90,"""Zona no delimitada"" -> ""Zonas No Delimitadas"""
+code_added,prov_occ,88,
+label_changed,prov_occ,90,"""Zona no delimitada"" -> ""Zonas No Delimitadas"""
+label_changed,discharge_cond,2,"""Fallecido < 48H"" -> ""Fallecido en menos de 48H"""
+label_changed,discharge_cond,3,"""Fallecido 48H y más"" -> ""Fallecido en 48H y más"""
+label_changed,sector,2,"""Sector Privado con Fines de Lucro"" -> ""Privado Con Fines de Lucro"""
+label_changed,sector,3,"""Sector Privado sin Fines de Lucro"" -> ""Privado Sin Fines de Lucro"""
+label_changed,sector,1,"""Sector Público"" -> ""Público"""

@@ -1,0 +1,11 @@
+change,std_var,raw,detail
+variable_added,,CCANCERU,
+variable_added,,CERTI1,
+variable_added,,DISED,
+variable_removed,,EDADN,
+variable_removed,,EDADR,
+variable_removed,,TIPOREG,
+code_added,prov_res,88,
+label_changed,prov_res,90,"""90 EXTERIOR"" -> ""90 ZONAS NO DELIMITADAS"""
+code_added,prov_occ,88,
+label_changed,prov_occ,90,"""90 EXTERIOR"" -> ""90 ZONAS NO DELIMITADAS"""

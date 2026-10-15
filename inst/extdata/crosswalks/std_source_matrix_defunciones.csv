@@ -1,0 +1,15 @@
+std_var,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024
+event_year,anof,ANOF,ANOF,ANOF,ANOF,ANOF,ANOF,ANOF,ANIOF,ANIOF,aniof,anio_fall,anio_fall,anio_fall,anio_fall,anio_fall,anio_fall,anio_fall,anio_fall,anio_fall,anio_fall,anio_fall,anio_fall,anio_fall,anio_fall
+event_month,mesf,MESF,MESF,MESF,MESF,MESF,MESF,MESF,MESF,MESF,mesf,mes_fall,mes_fall,mes_fall,mes_fall,mes_fall,mes_fall,mes_fall,mes_fall,mes_fall,mes_fall,mes_fall,mes_fall,mes_fall,mes_fall
+reg_year,anoi,ANOI,ANOI,ANOI,ANOI,ANOI,ANOI,ANOI,ANIOINS,ANIOINS,anioins,anio_insc,anio_insc,anio_insc,anio_insc,anio_insc,anio_insc,anio_insc,anio_insc,anio_insc,anio_insc,anio_insc,anio_insc,anio_insc,anio_insc
+sex,sexo,SEXO,SEXO,SEXO,SEXO,SEXO,SEXO,SEXO,SEXO,SEXO,sexo,sexo,sexo,sexo,sexo,sexo,sexo,sexo,sexo,sexo,sexo,sexo,sexo,sexo,sexo
+age_value,edad,EDAD,EDAD,EDAD,EDAD,EDAD,EDAD,EDAD,EDAD,EDAD,edad,edad,edad,edad,edad,edad,edad,edad,edad,edad,edad,edad,edad,edad,edad
+age_unit,codi,CODI,CODI,CODI,CODI,CODI,CODI,CODI,COD_EDA,COD_EDA,cod_eda,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad
+prov_res,provr,PROVR,PROVR,PROVR,PROVR,PROVR,PROVR,PROVR,PROVR,PROVR,provr,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res
+cant_res,cantr,CANTR,CANTR,CANTR,CANTR,CANTR,CANTR,CANTR,CANTR,CANTR,cantr,cant_res,cant_res,cant_res,cant_res,,,,,,,,,,
+prov_occ,provf,PROVF,PROVF,PROVF,PROVF,PROVF,PROVF,PROVF,PROVF,PROVF,provf,prov_fall,prov_fall,prov_fall,prov_fall,prov_fall,prov_fall,prov_fall,prov_fall,prov_fall,prov_fall,prov_fall,prov_fall,prov_fall,prov_fall
+cant_occ,cantf,CANTF,CANTF,CANTF,CANTF,CANTF,CANTF,CANTF,CANTF,CANTF,cantf,cant_fall,cant_fall,cant_fall,cant_fall,cant_fall,cant_fall,cant_fall,cant_fall,cant_fall,cant_fall,cant_fall,cant_fall,cant_fall,cant_fall
+area_res,zonar,ZONAR,ZONAR,ZONAR,ZONAR,ZONAR,ZONAR,ZONAR,ZONAR,ZONAR,zonar,area_res,area_res,area_res,area_res,area_res,area_res,area_res,area_res,area_res,area_res,area_res,area_res,area_res,area_res
+residente,resident,RESIDENT,RESIDENT,RESIDENT,RESIDENT,RESIDENT,RESIDENT,RESIDENT,RESIDENT,RESIDENT,resident,resident,residente,,,,,,residente,residente,residente,residente,residente,residente,residente
+place_occ,ocurrio,OCURRIO,OCURRIO,OCURRIO,OCURRIO,OCURRIO,OCURRIO,OCURRIO,OCURRIO,OCURRIO,ocurrio,lugar_fall,lugar_ocur,lugar_ocur,lugar_ocur,lugar_ocur,lugar_ocur,lugar_ocur,lugar_ocur,lugar_ocur,lugar_ocur,lugar_ocur,lugar_ocur,lugar_ocur,lugar_ocur
+icd10,causa+causa1,CAUSA+CAUSA1,CAUSA+CAUSA1,CODCAUSA,CODCAUSA,CODCAUSA,CODCAUSA,CODCAUSA,CAUSA4,CAUSA4,causa4,causa4,causa4,causa4,causa4,causa4,causa4,causa4,causa4,causa4,causa4,causa4,causa4,causa4,causa4

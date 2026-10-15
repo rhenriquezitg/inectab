@@ -1,0 +1,256 @@
+cant,label
+0101,Cuenca
+0102,Girón
+0103,Gualaceo
+0104,Nabón
+0105,Paute
+0106,Pucará
+0107,San Fernando
+0108,Santa Isabel
+0109,Sigsig
+0110,Oña
+0111,Chordeleg
+0112,El Pan
+0113,Sevilla de Oro
+0114,Guachapala
+0115,Camilo Ponce Enríquez
+0201,Guaranda
+0202,Chillanes
+0203,Chimbo
+0204,Echeandia
+0205,San Miguel
+0206,Caluma
+0207,Las Naves
+0301,Azoques
+0302,Biblian
+0303,Cañar
+0304,La Troncal
+0305,El Tambo
+0306,Deleg
+0307,Suscal
+0388,No inscrito
+0399,Ignorado
+0401,Tulcán
+0402,Bolívar
+0403,Espejo
+0404,Mira
+0405,Montúfar
+0406,San Pedro de Huaca
+0501,Latacunga
+0502,La Maná
+0503,Pangua
+0504,Pujilí
+0505,Salcedo
+0506,Saquisilí
+0507,Sigchos
+0601,Riobamba
+0602,Alausí
+0603,Colta
+0604,Chambo
+0605,Chunchi
+0606,Guamote
+0607,Guano
+0608,Pallatanga
+0609,Penípe
+0610,Cumandá
+0701,Machala
+0702,Arenillas
+0703,Atahualpa
+0704,Balsas
+0705,Chilla
+0706,El Guabo
+0707,Huaquillas
+0708,Marcabelí
+0709,Pasaje
+0710,Piñas
+0711,Portovelo
+0712,Santa Rosa
+0713,Zaruma
+0714,Las Lajas
+0788,No inscrito
+0799,Ignorado
+0801,Esmeraldas
+0802,Eloy Alfaro
+0803,Muisne
+0804,Quininde
+0805,San Lorenzo
+0806,Atacames
+0807,Río Verde
+0808,La Condordia
+0888,No inscrito
+0899,Ignorado
+0901,Guayaquil
+0902,Alfredo Baquerizo Moreno
+0903,Balao
+0904,Balzar
+0905,Colimes
+0906,Daule
+0907,Durán
+0908,Empalme
+0909,El Triunfo
+0910,Milagro
+0911,Naranjal
+0912,Naranjito
+0913,Palestina
+0914,Pedro Carbo
+0915,"Salinas (Guayas, pre-2008)"
+0916,Samborondón
+0917,"Santa Elena (Guayas, pre-2008)"
+0918,Santa Lucía
+0919,Salitre
+0920,San Jacinto de Yaguachi
+0921,Playas
+0922,Simón Bolívar
+0923,Crnel. Marcelino Maridueña
+0924,Lomas de Sargentillo
+0925,Nobol
+0926,"La Libertad (Guayas, pre-2008)"
+0927,Gnral. Antonio Elizalde
+0928,Isidro Ayora
+0988,No inscrito
+0999,Ignorado
+1001,Ibarra
+1002,Antonio Ante
+1003,Cotacahi
+1004,Otavalo
+1005,Pimampiro
+1006,San Miguel de Urcuqui
+1088,No inscrito
+1099,Ignorado
+1101,Loja
+1102,Calvas
+1103,Catamayo
+1104,Célica
+1105,Chaguarpamba
+1106,Espíndola
+1107,Gonzanamá
+1108,Macará
+1109,Paltas
+1110,Puyango
+1111,Saraguro
+1112,Sozoranga
+1113,Zapotillo
+1114,Pindal
+1115,Quilanga
+1116,Olemdo
+1201,Babahoyo
+1202,Baba
+1203,Montalvo
+1204,Puebloviejo
+1205,Quevedo
+1206,Urdaneta
+1207,Ventanas
+1208,Vinces
+1209,Palenque
+1210,Buena Fé
+1211,Valencia
+1212,Mocache
+1213,Quinsaloma
+1301,Portoviejo
+1302,Bolívar
+1303,Chone
+1304,El Carmen
+1305,Flavio Alfaro
+1306,Jipijapa
+1307,Junín
+1308,Manta
+1309,Montecristi
+1310,Paján
+1311,Pichincha
+1312,Rocafuerte
+1313,Santa Ana
+1314,Sucre
+1315,Tosagua
+1316,24 de Mayo
+1317,Pedernales
+1318,Olmedo
+1319,Puerto López
+1320,Jama
+1321,Jaramijó
+1322,San Vicente
+1401,Morona
+1402,Gualaquiza
+1403,Limón Indanza
+1404,Palora
+1405,Santiago
+1406,Sucúa
+1407,Huamboya
+1408,San Juan Bosco
+1409,Taisha
+1410,Logroño
+1411,Pablo Sexto
+1412,Tiwintza
+1488,No inscrito
+1499,Ignorado
+1501,Tena
+1502,Aguarico
+1503,Archidona
+1504,El Chaco
+1505,La Joya de los Sachas
+1506,Orellana
+1507,Quijos
+1508,Loreto
+1509,Carlos Julio Arrosemena Tola
+1601,Pastaza
+1602,Mera
+1603,Santa Clara
+1604,Arajuno
+1688,No inscrito
+1699,Ignorado
+1701,Quito
+1702,Cayambe
+1703,Mejía
+1704,Pedro Moncayo
+1705,Rumiñahui
+1706,"Santo Domingo (Pichincha, pre-2008)"
+1707,San Miguel de los Bancos
+1708,Pedro Vicente Maldonado
+1709,Puerto Quito
+1801,Ambato
+1802,Baños de Agua Santa
+1803,Cevallos
+1804,Mocha
+1805,Patate
+1806,Quero
+1807,San Pedro de Pelileo
+1808,Santiago de Pillaro
+1809,Tisaleo
+1901,Zamora
+1902,Chinchipe
+1903,Nangaritza
+1904,Yacuambi
+1905,Yantzaza
+1906,El Pangui
+1907,Centinela del Cóndor
+1908,Palanda
+1909,Paquisha
+2001,San Cristóbal
+2002,Isabela
+2003,Santa Cruz
+2101,Lago Agrio
+2102,Gonzalo Pizarro
+2103,Putumayo
+2104,Shushufindi
+2105,Sucumbíos
+2106,Cascales
+2107,Cuyabeno
+2201,Orellana
+2202,Aguarico
+2203,La Joya de Los Sachas
+2204,Loreto
+2301,Santo Domingo
+2302,La Concordia
+2401,Santa Elena
+2402,La Libertad
+2403,Salinas
+8800,Exterior
+9000,"Zona no delimitada, canton not identifiable"
+9001,Las Golondrinas
+9002,"La Concordia (zona no delimitada, 2004-2009)"
+9003,Manga del Cura
+9004,El Piedrero
+9005,Santa Rosa De Agua Clara
+9006,Juval
+9007,Abdon Calderon
+9008,Matilde Esther
+9999,Ignorado

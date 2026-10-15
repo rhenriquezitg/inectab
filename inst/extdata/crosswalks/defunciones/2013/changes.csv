@@ -1,0 +1,69 @@
+change,std_var,raw,detail
+variable_added,,autopsia,
+variable_added,,cod_pais,
+variable_added,,dia_fall,
+variable_added,,dia_insc,
+variable_added,,dia_nac,
+variable_added,,etnia,
+variable_added,,fecha_fall,
+variable_added,,fecha_insc,
+variable_added,,fecha_nac,
+variable_added,,folio,
+variable_added,,loc_fall,
+variable_added,,loc_res,
+variable_added,,lug_viol,
+variable_added,,mor_viol,
+variable_added,,nac_fall,
+variable_added,,parent_fall,
+variable_removed,,cauletra,
+variable_removed,,causa667,
+variable_removed,,certimed,
+variable_removed,,codigo,
+variable_removed,,dias,
+variable_removed,,dised14,
+variable_removed,,gcausa,
+variable_removed,,gcausa103,
+variable_removed,,gedad,
+variable_removed,,gedad1,
+variable_removed,,gedad2,
+variable_removed,,gedad3,
+variable_removed,,grucau11,
+variable_removed,,grupoedad,
+variable_removed,,grupoedad1,
+variable_removed,,lceti,
+variable_removed,,lcnum,
+variable_removed,,lugar_muviolen,
+variable_removed,,meses,
+variable_removed,,mu_matern,
+variable_removed,,mu_violen,
+variable_removed,,p_etnica,
+variable_removed,,paren_fall,
+variable_removed,,pro_med,
+variable_removed,,redad1,
+variable_removed,,reg_fall,
+variable_removed,,reg_res,
+variable_removed,residente,residente,
+variable_removed,,t1,
+variable_removed,,tipo_cer,
+std_var_no_longer_available,residente,residente,set to NA from this year
+label_changed,age_unit,9,"""Se ignora"" -> ""Ignorado"""
+label_changed,age_unit,4,"""Años cumplidos"" -> ""Años"""
+label_changed,prov_res,19,"""Zamora Chinchipe"" -> ""Zamora"""
+label_changed,prov_res,90,"""Zona no delimitada"" -> ""Zonas no Delimitadas"""
+label_changed,prov_res,02,"""Bolívar"" -> ""Bolivar"""
+label_changed,prov_res,21,"""Sucumbios"" -> ""Sucumbíos"""
+label_changed,prov_res,14,"""Morona Santiago"" -> ""Morona"""
+label_changed,prov_occ,19,"""Zamora Chinchipe"" -> ""Zamora"""
+label_changed,prov_occ,90,"""Zona no delimitada"" -> ""Zonas no Delimitadas"""
+label_changed,prov_occ,02,"""Bolívar"" -> ""Bolivar"""
+label_changed,prov_occ,13,"""Manabí"" -> ""Manabi"""
+label_changed,prov_occ,12,"""Los Ríos"" -> ""Los Rios"""
+label_changed,prov_occ,20,"""Galápagos"" -> ""Galapagos"""
+label_changed,prov_occ,14,"""Morona Santiago"" -> ""Morona"""
+label_changed,prov_occ,23,"""Santo domingo"" -> ""Santo Domingo de los Tsachilas"""
+code_removed,area_res,9,
+label_changed,place_occ,3,"""Establecimiento de la Junta de Beneficencia"" -> ""Junta de Beneficiencia"""
+label_changed,place_occ,5,"""Hospital, Clínica o Consultorio Privado"" -> ""Hospital Clínica/ Consultorio"""
+label_changed,place_occ,4,"""Otro Establecimiento Público"" -> ""Otro Establecimiento"""
+label_changed,place_occ,2,"""Establecimiento del IESS"" -> ""IESS"""
+label_changed,place_occ,1,"""Establecimiento del Ministerio de Salud"" -> ""Ministerio de Salud"""

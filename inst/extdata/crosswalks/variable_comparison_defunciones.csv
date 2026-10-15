@@ -1,0 +1,168 @@
+variable,std_var,label_latest,first_year,last_year,n_years,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024
+codigoen,,CODIGO DE LA ENCUESTA,2000,2007,8,codigoen,CODIGOEN,CODIGOEN,CODIGOEN,CODIGOEN,CODIGOEN,CODIGOEN,CODIGOEN,,,,,,,,,,,,,,,,,
+prov,,PROVINCIA DE INSCRIPCIÓN,2000,2010,11,prov,PROV,PROV,PROV,PROV,PROV,PROV,PROV,PROV,PROV,prov,,,,,,,,,,,,,,
+cant,,CANTÓN DE INSCRIPCIÓN,2000,2010,11,cant,CANT,CANT,CANT,CANT,CANT,CANT,CANT,CANT,CANT,cant,,,,,,,,,,,,,,
+parr,,PARROQUIA DE INSCRIPCIÓN,2000,2010,11,parr,PARR,PARR,PARR,PARR,PARR,PARR,PARR,PARR,PARR,parr,,,,,,,,,,,,,,
+anoi,reg_year,AÑO DE INSCRIPCION,2000,2007,8,anoi,ANOI,ANOI,ANOI,ANOI,ANOI,ANOI,ANOI,,,,,,,,,,,,,,,,,
+mesi,,MES DE INSCRIPCION,2000,2007,8,mesi,MESI,MESI,MESI,MESI,MESI,MESI,MESI,,,,,,,,,,,,,,,,,
+acta,,ACTA DE INSCRIPCIÓN,2000,2010,11,acta,ACTA,ACTA,ACTA,ACTA,ACTA,ACTA,ACTA,ACTA,ACTA,acta,,,,,,,,,,,,,,
+estab,,OFICINA DE INSCRIPCIÓN,2000,2010,11,estab,ESTAB,ESTAB,ESTAB,ESTAB,ESTAB,ESTAB,ESTAB,ESTAB,ESTAB,estab,,,,,,,,,,,,,,
+sexo,sex,SecA P8 Sexo,2000,2024,25,sexo,SEXO,SEXO,SEXO,SEXO,SEXO,SEXO,SEXO,SEXO,SEXO,sexo,sexo,sexo,sexo,sexo,sexo,sexo,sexo,sexo,sexo,sexo,sexo,sexo,sexo,sexo
+anon,,AÑO DE NACIMIENTO DEL FALLECIDO,2000,2007,8,anon,ANON,ANON,ANON,ANON,ANON,ANON,ANON,,,,,,,,,,,,,,,,,
+mesn,,MES DE NACIMIENTO DEL FALLECIDO,2000,2010,11,mesn,MESN,MESN,MESN,MESN,MESN,MESN,MESN,MESN,MESN,mesn,,,,,,,,,,,,,,
+anof,event_year,AÑO DE FALLECIMIENTO,2000,2007,8,anof,ANOF,ANOF,ANOF,ANOF,ANOF,ANOF,ANOF,,,,,,,,,,,,,,,,,
+mesf,event_month,MES DE FALLECIMIENTO,2000,2010,11,mesf,MESF,MESF,MESF,MESF,MESF,MESF,MESF,MESF,MESF,mesf,,,,,,,,,,,,,,
+edad,age_value,SecA P13 Edad al fallecer,2000,2024,25,edad,EDAD,EDAD,EDAD,EDAD,EDAD,EDAD,EDAD,EDAD,EDAD,edad,edad,edad,edad,edad,edad,edad,edad,edad,edad,edad,edad,edad,edad,edad
+codi,age_unit,CODIGO DE EDAD DEL FALLECIDO,2000,2007,8,codi,CODI,CODI,CODI,CODI,CODI,CODI,CODI,,,,,,,,,,,,,,,,,
+provf,prov_occ,PROVINCIA DE FALLECIMIENTO,2000,2010,11,provf,PROVF,PROVF,PROVF,PROVF,PROVF,PROVF,PROVF,PROVF,PROVF,provf,,,,,,,,,,,,,,
+cantf,cant_occ,CANTÓN DE FALLECIMIENTO,2000,2010,11,cantf,CANTF,CANTF,CANTF,CANTF,CANTF,CANTF,CANTF,CANTF,CANTF,cantf,,,,,,,,,,,,,,
+parrf,,PARROQUIA DE FALLECIMIENTO,2000,2010,11,parrf,PARRF,PARRF,PARRF,PARRF,PARRF,PARRF,PARRF,PARRF,PARRF,parrf,,,,,,,,,,,,,,
+zona,,ZONA DE FALLECIMIENTO,2000,2007,8,zona,ZONA,ZONA,ZONA,ZONA,ZONA,ZONA,ZONA,,,,,,,,,,,,,,,,,
+embara,,Estuvo embarazada cuando fallecio,2000,2011,12,embara,EMBARA,EMBARA,EMBARA,EMBARA,EMBARA,EMBARA,EMBARA,EMBARA,EMBARA,embara,embara,,,,,,,,,,,,,
+meses,,Grupo de edad (meses),2000,2012,10,meses,MESES,MESES,MESES,MESES,MESES,MESES,MESES,MESES,,,,meses,,,,,,,,,,,,
+semana6,,En las ultimas 6 semanas dio a luz,2000,2011,12,semana6,SEMANA6,SEMANA6,SEMANA6,SEMANA6,SEMANA6,SEMANA6,SEMANA6,SEMANA6,SEMANA6,semana6,semana6,,,,,,,,,,,,,
+atencion,,RECIBIO ATENCIÓN PARA CONTROL DE EMBARAZO,2000,2008,9,atencion,ATENCION,ATENCION,ATENCION,ATENCION,ATENCION,ATENCION,ATENCION,ATENCION,,,,,,,,,,,,,,,,
+consulta,,NÚMERO DE CONSULTAS DE EMBARAZO,2000,2008,9,consulta,CONSULTA,CONSULTA,CONSULTA,CONSULTA,CONSULTA,CONSULTA,CONSULTA,CONSULTA,,,,,,,,,,,,,,,,
+estado,,ESTADO CIVIL DEL FALLECIDO,2000,2010,11,estado,ESTADO,ESTADO,ESTADO,ESTADO,ESTADO,ESTADO,ESTADO,ESTADO,ESTADO,estado,,,,,,,,,,,,,,
+ocurrio,place_occ,LUGAR DE OCURRENCIA DEL FALLECIMIENTO,2000,2010,11,ocurrio,OCURRIO,OCURRIO,OCURRIO,OCURRIO,OCURRIO,OCURRIO,OCURRIO,OCURRIO,OCURRIO,ocurrio,,,,,,,,,,,,,,
+certi,,CERTIFICACION DE DEFUNCION,2000,2007,8,certi,CERTI,CERTI,CERTI,CERTI,CERTI,CERTI,CERTI,,,,,,,,,,,,,,,,,
+provr,prov_res,PROVINCIA DE RESIDENCIA DEL FALLECIDO,2000,2010,11,provr,PROVR,PROVR,PROVR,PROVR,PROVR,PROVR,PROVR,PROVR,PROVR,provr,,,,,,,,,,,,,,
+cantr,cant_res,CANTÓN DE RESIDENCIA DEL FALLECIDO,2000,2010,11,cantr,CANTR,CANTR,CANTR,CANTR,CANTR,CANTR,CANTR,CANTR,CANTR,cantr,,,,,,,,,,,,,,
+parrr,,PARROQUIA DE RESIDENCIA DEL FALLECIDO,2000,2010,11,parrr,PARRR,PARRR,PARRR,PARRR,PARRR,PARRR,PARRR,PARRR,PARRR,parrr,,,,,,,,,,,,,,
+zonar,area_res,ZONA DE RESIDENCIA DEL FALLECIDO,2000,2010,11,zonar,ZONAR,ZONAR,ZONAR,ZONAR,ZONAR,ZONAR,ZONAR,ZONAR,ZONAR,zonar,,,,,,,,,,,,,,
+resident,residente,Tipo de residencia del fallecido,2000,2011,12,resident,RESIDENT,RESIDENT,RESIDENT,RESIDENT,RESIDENT,RESIDENT,RESIDENT,RESIDENT,RESIDENT,resident,resident,,,,,,,,,,,,,
+leer,,SABÍA LEER O ESCRIBIR EL FALLECIDO,2000,2010,11,leer,LEER,LEER,LEER,LEER,LEER,LEER,LEER,LEER,LEER,leer,,,,,,,,,,,,,,
+nivel,,NIVEL DE INSTRUCCIÓN DEL FALLECIDO,2000,2010,11,nivel,NIVEL,NIVEL,NIVEL,NIVEL,NIVEL,NIVEL,NIVEL,NIVEL,NIVEL,nivel,,,,,,,,,,,,,,
+grado,,ULTIMO GRADO APROBADO DEL FALLECIDO,2000,2007,8,grado,GRADO,GRADO,GRADO,GRADO,GRADO,GRADO,GRADO,,,,,,,,,,,,,,,,,
+trabaja,,PREG TRABAJABA CUANDO FALLECIO,2000,2007,8,trabaja,TRABAJA,TRABAJA,TRABAJA,TRABAJA,TRABAJA,TRABAJA,TRABAJA,,,,,,,,,,,,,,,,,
+profe,,PROFESION DEL FALLECIDO,2000,2007,8,profe,PROFE,PROFE,PROFE,PROFE,PROFE,PROFE,PROFE,,,,,,,,,,,,,,,,,
+ocupa,,OCUPACION DEL FALLECIDO,2000,2007,8,ocupa,OCUPA,OCUPA,OCUPA,OCUPA,OCUPA,OCUPA,OCUPA,,,,,,,,,,,,,,,,,
+estab1,,ACTIVIDAD ECONOMICA DEL ESTABLECIMIENTO DE TRABAJO,2000,2007,8,estab1,ESTAB1,ESTAB1,ESTAB1,ESTAB1,ESTAB1,ESTAB1,ESTAB1,,,,,,,,,,,,,,,,,
+categori,,CATEGORIA DE OCUPACION CUANDO TRABAJA,2000,2007,8,categori,CATEGORI,CATEGORI,CATEGORI,CATEGORI,CATEGORI,CATEGORI,CATEGORI,,,,,,,,,,,,,,,,,
+notrabaj,,CATEGORIA DE OCUPACION CUANDO NO TRABAJA,2000,2007,8,notrabaj,NOTRABAJ,NOTRABAJ,NOTRABAJ,NOTRABAJ,NOTRABAJ,NOTRABAJ,NOTRABAJ,,,,,,,,,,,,,,,,,
+causa,icd10,SecB P17 Causa básica de defunción (categorías - 3 caracteres),2000,2024,25,causa,CAUSA,CAUSA,CAUSA,CAUSA,CAUSA,CAUSA,CAUSA,causa,causa,CAUSA,causa,causa,causa,causa,causa,causa,causa,causa,causa,causa,causa,causa,causa,causa
+causa1,icd10,CUARTO DIGITO DE LA CAUSA DE FALLECIMIENTO CIE-10,2000,2010,11,causa1,CAUSA1,CAUSA1,CAUSA1,CAUSA1,CAUSA1,CAUSA1,CAUSA1,causa1,causa1,CAUSA1,,,,,,,,,,,,,,
+causa103,,Lista condensada (103 causas),2000,2024,25,causa103,CAUSA103,CAUSA103,CAUSA103,CAUSA103,CAUSA103,CAUSA103,CAUSA103,causa103,CAUSA103,CAUSA103,causa103,causa103,causa103,causa103,causa103,causa103,causa103,causa103,causa103,causa103,causa103,causa103,causa103,causa103
+causa080,,GRUPO CAUSA 080,2000,2007,8,causa080,CAUSA080,CAUSA080,CAUSA080,CAUSA080,CAUSA080,CAUSA080,CAUSA080,,,,,,,,,,,,,,,,,
+causa667,,Causa667,2000,2012,12,causa667,CAUSA667,CAUSA667,CAUSA667,CAUSA667,CAUSA667,CAUSA667,CAUSA667,causa667,CAUSA667,CAUSA667,,causa667,,,,,,,,,,,,
+edadso,,EDAD DE SOLICITANTE,2000,2007,8,edadso,EDADSO,EDADSO,EDADSO,EDADSO,EDADSO,EDADSO,EDADSO,,,,,,,,,,,,,,,,,
+paren,,Parentezco del fallecido con la persona que inscribe,2000,2011,12,paren,PAREN,PAREN,PAREN,PAREN,PAREN,PAREN,PAREN,PAREN,PAREN,paren,paren,,,,,,,,,,,,,
+d_r,,,2001,2001,1,,D_R,,,,,,,,,,,,,,,,,,,,,,,
+tiporeg,,TIPO DE REGISTRO,2003,2006,3,,,,TIPOREG,,TIPOREG,TIPOREG,,,,,,,,,,,,,,,,,,
+codcausa,icd10,Causa Numérica,2003,2010,8,,,,CODCAUSA,CODCAUSA,CODCAUSA,CODCAUSA,CODCAUSA,codcausa,codcausa,CODCAUSA,,,,,,,,,,,,,,
+caus3671,,GRUPO CAUSA 3671,2003,2006,4,,,,CAUS3671,CAUS3671,CAUS3671,CAUS3671,,,,,,,,,,,,,,,,,,
+caus3670,,GRUPO CAUSA 3670,2003,2006,4,,,,CAUS3670,CAUS3670,CAUS3670,CAUS3670,,,,,,,,,,,,,,,,,,
+edadn,,EDAD CALCULADA,2003,2003,1,,,,EDADN,,,,,,,,,,,,,,,,,,,,,
+edadr,,EDAD DEL FALLECIDO,2003,2003,1,,,,EDADR,,,,,,,,,,,,,,,,,,,,,
+t,,TOTAL,2003,2006,4,,,,T,T,T,T,,,,,,,,,,,,,,,,,,
+certi1,,CON O SIN CERTIFICACION MEDICA,2004,2006,3,,,,,CERTI1,CERTI1,CERTI1,,,,,,,,,,,,,,,,,,
+ccanceru,,,2004,2004,1,,,,,CCANCERU,,,,,,,,,,,,,,,,,,,,
+dised,,,2004,2004,1,,,,,DISED,,,,,,,,,,,,,,,,,,,,
+delc,,GRUPOS DE EDAD ESPECIAL,2005,2006,2,,,,,,DELC,DELC,,,,,,,,,,,,,,,,,,
+lc,,Lista corta de agrupamiento de causas de muertes,2005,2011,3,,,,,,LC,LC,,,,,lc,,,,,,,,,,,,,
+lcd,,LISTA CORTA DESAGREGADA CAUSAS,2005,2006,2,,,,,,LCD,LCD,,,,,,,,,,,,,,,,,,
+rn,,,2006,2006,1,,,,,,,RN,,,,,,,,,,,,,,,,,,
+cert,,,2006,2006,1,,,,,,,CERT,,,,,,,,,,,,,,,,,,
+uprovf,,,2006,2006,1,,,,,,,UPROVF,,,,,,,,,,,,,,,,,,
+ucantf,,,2006,2006,1,,,,,,,UCANTF,,,,,,,,,,,,,,,,,,
+uparrf,,,2006,2006,1,,,,,,,UPARRF,,,,,,,,,,,,,,,,,,
+codesta,,CÓDIGO DE LA ESTADÍSTICA,2008,2010,3,,,,,,,,,CODESTA,CODESTA,codesta,,,,,,,,,,,,,,
+anioins,reg_year,AÑO DE INSCRIPCIÓN,2008,2010,3,,,,,,,,,ANIOINS,ANIOINS,anioins,,,,,,,,,,,,,,
+mesins,,MES DE INSCRIPCIÓN,2008,2010,3,,,,,,,,,MESINS,MESINS,mesins,,,,,,,,,,,,,,
+anion,,AÑO DE NACIMIENTO DEL FALLECIDO,2008,2010,3,,,,,,,,,ANION,ANION,anion,,,,,,,,,,,,,,
+aniof,event_year,AÑO DE FALLECIMIENTO,2008,2010,3,,,,,,,,,ANIOF,ANIOF,aniof,,,,,,,,,,,,,,
+cod_eda,age_unit,CÓDIGO DE EDAD DEL FALLECIDO,2008,2010,3,,,,,,,,,COD_EDA,COD_EDA,cod_eda,,,,,,,,,,,,,,
+zonaf,,ZONA DE FALLECIMIENTO,2008,2010,3,,,,,,,,,ZONAF,ZONAF,zonaf,,,,,,,,,,,,,,
+cert_por,,Certificación de defunción,2008,2011,4,,,,,,,,,CERT_POR,CERT_POR,cert_por,cert_por,,,,,,,,,,,,,
+causa4,icd10,SecE P29 Causa básica de defunción (categorías - 4 caracteres),2008,2024,17,,,,,,,,,CAUSA4,CAUSA4,causa4,causa4,causa4,causa4,causa4,causa4,causa4,causa4,causa4,causa4,causa4,causa4,causa4,causa4,causa4
+causa80,,Lista de tabulación 2 para la mortalidad subcategorías (80 causas),2008,2024,17,,,,,,,,,causa80,CAUSA80,CAUSA80,causa80,causa80,causa80,causa80,causa80,causa80,causa80,causa80,causa80,causa80,causa80,causa80,causa80,causa80
+regional,,REGIONAL,2008,2010,3,,,,,,,,,REGIONAL,REGIONAL,regional,,,,,,,,,,,,,,
+fdal,,FALLECIÓ DANDO A LUZ,2009,2010,2,,,,,,,,,,FDAL,fdal,,,,,,,,,,,,,,
+etnia,,SecA P18 Identificación étnica de acuerdo con la cultura y costumbres,2009,2024,14,,,,,,,,,,ETNIA,etnia,,,etnia,etnia,etnia,etnia,etnia,etnia,etnia,etnia,etnia,etnia,etnia,etnia
+mue_viol,,MUERTE VIOLENTA,2009,2010,2,,,,,,,,,,MUE_VIOL,mue_viol,,,,,,,,,,,,,,
+autopcia,,REALIZÓ AUTOPSIA,2009,2010,2,,,,,,,,,,AUTOPCIA,autopcia,,,,,,,,,,,,,,
+prov_insc,,SecRegistroCivil P2 Provincia de inscripción,2011,2024,14,,,,,,,,,,,,prov_insc,prov_insc,prov_insc,prov_insc,prov_insc,prov_insc,prov_insc,prov_insc,prov_insc,prov_insc,prov_insc,prov_insc,prov_insc,prov_insc
+cant_insc,,SecRegistroCivil P2 Cantón de inscripción,2011,2024,14,,,,,,,,,,,,cant_insc,cant_insc,cant_insc,cant_insc,cant_insc,cant_insc,cant_insc,cant_insc,cant_insc,cant_insc,cant_insc,cant_insc,cant_insc,cant_insc
+parr_insc,,SecRegistroCivil P2 Parroquia de inscripción,2011,2024,14,,,,,,,,,,,,parr_insc,parr_insc,parr_insc,parr_insc,parr_insc,parr_insc,parr_insc,parr_insc,parr_insc,parr_insc,parr_insc,parr_insc,parr_insc,parr_insc
+anio_insc,reg_year,SecRegistroCivil P3 Año de inscripción,2011,2024,14,,,,,,,,,,,,anio_insc,anio_insc,anio_insc,anio_insc,anio_insc,anio_insc,anio_insc,anio_insc,anio_insc,anio_insc,anio_insc,anio_insc,anio_insc,anio_insc
+mes_insc,,SecRegistroCivil P3 Mes de inscripción,2011,2024,14,,,,,,,,,,,,mes_insc,mes_insc,mes_insc,mes_insc,mes_insc,mes_insc,mes_insc,mes_insc,mes_insc,mes_insc,mes_insc,mes_insc,mes_insc,mes_insc
+acta_insc,,SecRegistroCivil P4 Acta de inscripción,2011,2013,3,,,,,,,,,,,,acta_insc,acta_insc,acta_insc,,,,,,,,,,,
+ofi_insc,,SecRegistroCivil P1 Oficina del Registro Civil,2011,2014,4,,,,,,,,,,,,ofi_insc,ofi_insc,ofi_insc,ofi_insc,,,,,,,,,,
+anio_nac,,SecA P9 Año de nacimiento,2011,2024,14,,,,,,,,,,,,anio_nac,anio_nac,anio_nac,anio_nac,anio_nac,anio_nac,anio_nac,anio_nac,anio_nac,anio_nac,anio_nac,anio_nac,anio_nac,anio_nac
+mes_nac,,SecA P9 Mes de nacimiento,2011,2024,14,,,,,,,,,,,,mes_nac,mes_nac,mes_nac,mes_nac,mes_nac,mes_nac,mes_nac,mes_nac,mes_nac,mes_nac,mes_nac,mes_nac,mes_nac,mes_nac
+anio_fall,event_year,SecA P10 Año de fallecimiento,2011,2024,14,,,,,,,,,,,,anio_fall,anio_fall,anio_fall,anio_fall,anio_fall,anio_fall,anio_fall,anio_fall,anio_fall,anio_fall,anio_fall,anio_fall,anio_fall,anio_fall
+mes_fall,event_month,SecA P10 Mes de fallecimiento,2011,2024,14,,,,,,,,,,,,mes_fall,mes_fall,mes_fall,mes_fall,mes_fall,mes_fall,mes_fall,mes_fall,mes_fall,mes_fall,mes_fall,mes_fall,mes_fall,mes_fall
+cod_edad,age_unit,SecA P13 Código de edad al fallecer,2011,2024,14,,,,,,,,,,,,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad
+prov_fall,prov_occ,SecA P19 Provincia de fallecimiento,2011,2024,14,,,,,,,,,,,,prov_fall,prov_fall,prov_fall,prov_fall,prov_fall,prov_fall,prov_fall,prov_fall,prov_fall,prov_fall,prov_fall,prov_fall,prov_fall,prov_fall
+cant_fall,cant_occ,SecA P19 Cantón de fallecimiento,2011,2024,14,,,,,,,,,,,,cant_fall,cant_fall,cant_fall,cant_fall,cant_fall,cant_fall,cant_fall,cant_fall,cant_fall,cant_fall,cant_fall,cant_fall,cant_fall,cant_fall
+parr_fall,,SecA P19 Parroquia de fallecimiento,2011,2024,14,,,,,,,,,,,,parr_fall,parr_fall,parr_fall,parr_fall,parr_fall,parr_fall,parr_fall,parr_fall,parr_fall,parr_fall,parr_fall,parr_fall,parr_fall,parr_fall
+area_fall,,Área de fallecimiento,2011,2024,14,,,,,,,,,,,,area_fall,area_fall,area_fall,area_fall,area_fall,area_fall,area_fall,area_fall,area_fall,area_fall,area_fall,area_fall,area_fall,area_fall
+reg_fall,,Región de fallecimiento,2011,2012,2,,,,,,,,,,,,reg_fall,reg_fall,,,,,,,,,,,,
+lugar_fall,place_occ,Lugar de ocurrencia del fallecimiento,2011,2011,1,,,,,,,,,,,,lugar_fall,,,,,,,,,,,,,
+est_civ,,Estado civil del fallecido,2011,2011,1,,,,,,,,,,,,est_civ,,,,,,,,,,,,,
+prov_res,prov_res,SecA P14 Provincia de residencia habitual del fallecido,2011,2024,14,,,,,,,,,,,,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res
+cant_res,cant_res,SecA P12 Cantón de residencia habitual del fallecido(a),2011,2014,4,,,,,,,,,,,,cant_res,cant_res,cant_res,cant_res,,,,,,,,,,
+parr_res,,SecA P12 Parroquia de residencia habitual del fallecido(a),2011,2014,4,,,,,,,,,,,,parr_res,parr_res,parr_res,parr_res,,,,,,,,,,
+area_res,area_res,Área de residencia habitual del fallecido(a),2011,2024,14,,,,,,,,,,,,area_res,area_res,area_res,area_res,area_res,area_res,area_res,area_res,area_res,area_res,area_res,area_res,area_res,area_res
+reg_res,,Región de residencia,2011,2012,2,,,,,,,,,,,,reg_res,reg_res,,,,,,,,,,,,
+sabe_leer,,SecA P17.2 Alfabetismo ¿Sabía leer y escribir?,2011,2024,14,,,,,,,,,,,,sabe_leer,sabe_leer,sabe_leer,sabe_leer,sabe_leer,sabe_leer,sabe_leer,sabe_leer,sabe_leer,sabe_leer,sabe_leer,sabe_leer,sabe_leer,sabe_leer
+niv_inst,,SecA P17.1 Nivel de instrucción,2011,2024,14,,,,,,,,,,,,niv_inst,niv_inst,niv_inst,niv_inst,niv_inst,niv_inst,niv_inst,niv_inst,niv_inst,niv_inst,niv_inst,niv_inst,niv_inst,niv_inst
+p_etnica,,SecA P14 Autoidentificación étnica,2011,2012,2,,,,,,,,,,,,p_etnica,p_etnica,,,,,,,,,,,,
+fallecioaluz,,Falleció dando a luz,2011,2011,1,,,,,,,,,,,,fallecioaluz,,,,,,,,,,,,,
+tipo_cert,,Tipo de certificación,2011,2011,1,,,,,,,,,,,,tipo_cert,,,,,,,,,,,,,
+causa4original,,Causa de fallecimiento cie-10  4 digitos,2011,2011,1,,,,,,,,,,,,causa4original,,,,,,,,,,,,,
+mu_violen,,SecB P19 Muertes accidentales y/o violentas,2011,2012,2,,,,,,,,,,,,mu_violen,mu_violen,,,,,,,,,,,,
+pro_med,,SecB P20 Se realizó necropsia/autopsia?,2011,2012,2,,,,,,,,,,,,pro_med,pro_med,,,,,,,,,,,,
+cauletra,,Especificación de causa,2011,2012,2,,,,,,,,,,,,cauletra,cauletra,,,,,,,,,,,,
+mu_matern,,SecB P18 Mortalidad Materna,2011,2012,2,,,,,,,,,,,,mu_matern,mu_matern,,,,,,,,,,,,
+causa67a,,Lista condensada (67 causas)A,2011,2024,14,,,,,,,,,,,,causa67A,causa67A,causa67A,causa67A,causa67A,causa67A,causa67A,causa67A,causa67A,causa67A,causa67A,causa67A,causa67A,causa67A
+causa67b,,Lista condensada desagregada (67 causas)B,2011,2024,14,,,,,,,,,,,,causa67B,causa67B,causa67B,causa67B,causa67B,causa67B,causa67B,causa67B,causa67B,causa67B,causa67B,causa67B,causa67B,causa67B
+est_civil,,SecA P16 Estado civil y/o conyugal,2012,2024,13,,,,,,,,,,,,,est_civil,est_civil,est_civil,est_civil,est_civil,est_civil,est_civil,est_civil,est_civil,est_civil,est_civil,est_civil,est_civil
+lugar_ocur,place_occ,SecA P19 Lugar de ocurrencia del fallecimiento,2012,2024,13,,,,,,,,,,,,,lugar_ocur,lugar_ocur,lugar_ocur,lugar_ocur,lugar_ocur,lugar_ocur,lugar_ocur,lugar_ocur,lugar_ocur,lugar_ocur,lugar_ocur,lugar_ocur,lugar_ocur
+cod_esta,,SecA P16.1 Código del Establecimiento de Salud,2012,2013,2,,,,,,,,,,,,,cod_esta,cod_esta,,,,,,,,,,,
+mor_mat,,Mortalidad materna (Variable creada),2012,2017,5,,,,,,,,,,,,,mor_mat,mor_mat,mor_mat,,mor_mat,mor_mat,,,,,,,
+lugar_muviolen,,SecB P19.2 Lugar donde ocurrió el hecho violento o accidental,2012,2012,1,,,,,,,,,,,,,lugar_muviolen,,,,,,,,,,,,
+cer_por,,SecB P20 Certificado por,2012,2024,13,,,,,,,,,,,,,cer_por,cer_por,cer_por,cer_por,cer_por,cer_por,cer_por,cer_por,cer_por,cer_por,cer_por,cer_por,cer_por
+paren_fall,,SecD P24 Relación de parentesco con el fallecido/a,2012,2012,1,,,,,,,,,,,,,paren_fall,,,,,,,,,,,,
+tipo_cer,,P25 Certificación médica,2012,2012,1,,,,,,,,,,,,,tipo_cer,,,,,,,,,,,,
+t1,,Total,2012,2012,1,,,,,,,,,,,,,t1,,,,,,,,,,,,
+certimed,,Tipo de certificación,2012,2012,1,,,,,,,,,,,,,certimed,,,,,,,,,,,,
+residente,residente,Variable creada para identificar si el fallecido es residente,2012,2024,8,,,,,,,,,,,,,residente,,,,,,residente,residente,residente,residente,residente,residente,residente
+gedad,,Grupo de edad (Grandes grupos),2012,2012,1,,,,,,,,,,,,,gedad,,,,,,,,,,,,
+gedad1,,Grupo de edad (12 años y más),2012,2012,1,,,,,,,,,,,,,gedad1,,,,,,,,,,,,
+gedad2,,Grupo de edad 2 (Grandes grupos),2012,2012,1,,,,,,,,,,,,,gedad2,,,,,,,,,,,,
+grupoedad,,Grupos de edad,2012,2012,1,,,,,,,,,,,,,grupoedad,,,,,,,,,,,,
+dised14,,Grupos de edad,2012,2012,1,,,,,,,,,,,,,dised14,,,,,,,,,,,,
+gedad3,,Grupos de edad 3,2012,2012,1,,,,,,,,,,,,,gedad3,,,,,,,,,,,,
+lc1,,Lista corta de causas de defunción,2012,2024,13,,,,,,,,,,,,,lc1,lc1,lc1,lc1,lc1,lc1,lc1,lc1,lc1,lc1,lc1,lc1,lc1
+lceti,,Códigos de Agrupamiento,2012,2012,1,,,,,,,,,,,,,lceti,,,,,,,,,,,,
+lcnum,,Código de la lista corta,2012,2012,1,,,,,,,,,,,,,lcnum,,,,,,,,,,,,
+redad1,,Rangos de edad (1 año y más),2012,2012,1,,,,,,,,,,,,,redad1,,,,,,,,,,,,
+gcausa,,Grupo de causas (Grandes grupos),2012,2012,1,,,,,,,,,,,,,gcausa,,,,,,,,,,,,
+gcausa103,,Grupo de causa 103,2012,2012,1,,,,,,,,,,,,,gcausa103,,,,,,,,,,,,
+codigo,,Codigo de grupo de causa 103,2012,2012,1,,,,,,,,,,,,,codigo,,,,,,,,,,,,
+grucau11,,Grandes grupos de causas,2012,2012,1,,,,,,,,,,,,,grucau11,,,,,,,,,,,,
+dias,,Grupo de edad (días),2012,2012,1,,,,,,,,,,,,,dias,,,,,,,,,,,,
+grupoedad1,,,2012,2012,1,,,,,,,,,,,,,grupoedad1,,,,,,,,,,,,
+folio,,Número de formulario,2013,2013,1,,,,,,,,,,,,,,folio,,,,,,,,,,,
+dia_insc,,SecRegistroCivil P3 Día de inscripción,2013,2024,12,,,,,,,,,,,,,,dia_insc,dia_insc,dia_insc,dia_insc,dia_insc,dia_insc,dia_insc,dia_insc,dia_insc,dia_insc,dia_insc,dia_insc
+fecha_insc,,SecRegistroCivil P3 Fecha de inscripción,2013,2024,12,,,,,,,,,,,,,,fecha_insc,fecha_insc,fecha_insc,fecha_insc,fecha_insc,fecha_insc,fecha_insc,fecha_insc,fecha_insc,fecha_insc,fecha_insc,fecha_insc
+dia_nac,,SecA P9 Día de nacimiento,2013,2024,12,,,,,,,,,,,,,,dia_nac,dia_nac,dia_nac,dia_nac,dia_nac,dia_nac,dia_nac,dia_nac,dia_nac,dia_nac,dia_nac,dia_nac
+fecha_nac,,SecA P9 Fecha de nacimiento,2013,2024,12,,,,,,,,,,,,,,fecha_nac,fecha_nac,fecha_nac,fecha_nac,fecha_nac,fecha_nac,fecha_nac,fecha_nac,fecha_nac,fecha_nac,fecha_nac,fecha_nac
+dia_fall,,SecA P10 Día de fallecimiento,2013,2024,12,,,,,,,,,,,,,,dia_fall,dia_fall,dia_fall,dia_fall,dia_fall,dia_fall,dia_fall,dia_fall,dia_fall,dia_fall,dia_fall,dia_fall
+fecha_fall,,SecA P10 Fecha de fallecimiento,2013,2024,12,,,,,,,,,,,,,,fecha_fall,fecha_fall,fecha_fall,fecha_fall,fecha_fall,fecha_fall,fecha_fall,fecha_fall,fecha_fall,fecha_fall,fecha_fall,fecha_fall
+nac_fall,,SecA P7 Nacionalidad,2013,2024,12,,,,,,,,,,,,,,nac_fall,nac_fall,nac_fall,nac_fall,nac_fall,nac_fall,nac_fall,nac_fall,nac_fall,nac_fall,nac_fall,nac_fall
+cod_pais,,SecA P7 Código del país,2013,2024,12,,,,,,,,,,,,,,cod_pais,cod_pais,cod_pais,cod_pais,cod_pais,cod_pais,cod_pais,cod_pais,cod_pais,cod_pais,cod_pais,cod_pais
+loc_res,,SecA P11 Código de localidad de residencia habitual del fallecido(a),2013,2013,1,,,,,,,,,,,,,,loc_res,,,,,,,,,,,
+loc_fall,,SecA P16.1.5 Código localidad de fallecimiento,2013,2013,1,,,,,,,,,,,,,,loc_fall,,,,,,,,,,,
+mor_viol,,SecB P23.1 Tipo presuntivo de la muerte accidental o violenta,2013,2024,12,,,,,,,,,,,,,,mor_viol,mor_viol,mor_viol,mor_viol,mor_viol,mor_viol,mor_viol,mor_viol,mor_viol,mor_viol,mor_viol,mor_viol
+lug_viol,,SecB P23.2 Lugar presuntivo donde ocurrió el hecho,2013,2024,12,,,,,,,,,,,,,,lug_viol,lug_viol,lug_viol,lug_viol,lug_viol,lug_viol,lug_viol,lug_viol,lug_viol,lug_viol,lug_viol,lug_viol
+autopsia,,SecB P24 Se realizó necropsia/autopsia?,2013,2024,12,,,,,,,,,,,,,,autopsia,autopsia,autopsia,autopsia,autopsia,autopsia,autopsia,autopsia,autopsia,autopsia,autopsia,autopsia
+parent_fall,,SecD P26 Relación de parentesco con el fallecido(a),2013,2014,2,,,,,,,,,,,,,,parent_fall,parent_fall,,,,,,,,,,
+mor_relac,,"SecB P20 Mortalidad relacionada con el embarazo, parto o posparto",2014,2014,1,,,,,,,,,,,,,,,mor_relac,,,,,,,,,,
+mort_mat,,Mortalidad materna (Variable creada),2015,2015,1,,,,,,,,,,,,,,,,mort_mat,,,,,,,,,
+obser_mort_mat,,Observaciones de mortalidad materna (Variable creada),2015,2016,2,,,,,,,,,,,,,,,,Obser_mort_mat,obser_mort_mat,,,,,,,,
+muj_fertil,,SecB P22 En el caso de que la defunción corresponde a una mujer en edad fértil,2015,2024,9,,,,,,,,,,,,,,,,muj_fertil,muj_fertil,muj_fertil,muj_fertil,muj_fertil,,muj_fertil,muj_fertil,muj_fertil,muj_fertil
+númeración,,Secuencial de registros,2018,2019,2,,,,,,,,,,,,,,,,,,,Númeración,Númeración,,,,,
+numeración,,Secuencial de registros,2020,2024,3,,,,,,,,,,,,,,,,,,,,,Numeración,,,Numeración,Numeración
+numeracion,,Secuencial de registros,2021,2022,2,,,,,,,,,,,,,,,,,,,,,,Numeracion,Numeracion,,

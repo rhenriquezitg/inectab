@@ -1,0 +1,13 @@
+change,std_var,raw,detail
+variable_added,,Causa3,
+variable_added,,Parr_ubie,
+variable_removed,,edad_repac,
+variable_removed,,negreso,
+variable_removed,,par_ubie,
+variable_case_changed,,Cod_est Ani_inv Prov_ubie Cant_ubie Clase Tipo Entidad Sector ...,26 variables change letter case only
+code_added,sex,1 2,
+code_removed,sex,01 02,
+code_added,age_unit,1 2 3 9,
+code_removed,age_unit,01 02 03 09,
+code_added,discharge_cond,1 2 3,
+code_removed,discharge_cond,01 02 03,

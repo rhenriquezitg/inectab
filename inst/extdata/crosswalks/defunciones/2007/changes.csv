@@ -1,0 +1,15 @@
+change,std_var,raw,detail
+variable_removed,,CAUS3670,
+variable_removed,,CAUS3671,
+variable_removed,,CERT,
+variable_removed,,CERTI1,
+variable_removed,,DELC,
+variable_removed,,LC,
+variable_removed,,LCD,
+variable_removed,,RN,
+variable_removed,,T,
+variable_removed,,TIPOREG,
+variable_removed,,UCANTF,
+variable_removed,,UPARRF,
+variable_removed,,UPROVF,
+label_changed,place_occ,4,"""4 HOSPITAL CLINICA CONSULTORIO"" -> ""4 HOSPITAL CLÍNICA CONSULTORIO"""

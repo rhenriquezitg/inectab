@@ -1,0 +1,44 @@
+raw_name,raw_label,spss_format,n_value_labels,std_var,status,transform
+CODESTA,CÓDIGO DE LA ESTADÍSTICA,A3,0,,not harmonized (carried raw),
+PROV,PROVINCIA DE INSCRIPCIÓN,F2.0,26,,not harmonized (carried raw),
+CANT,CANTÓN DE INSCRIPCIÓN,F2.0,0,,not harmonized (carried raw),
+PARR,PARROQUIA DE INSCRIPCIÓN,F2.0,0,,not harmonized (carried raw),
+ANIOINS,AÑO DE INSCRIPCIÓN,F4.0,0,reg_year,harmonized,as integer
+MESINS,MES DE INSCRIPCIÓN,F2.0,0,,not harmonized (carried raw),
+ACTA,ACTA DE INSCRIPCIÓN,F5.0,0,,not harmonized (carried raw),
+ESTAB,OFICINA DE INSCRIPCIÓN,F2.0,0,,not harmonized (carried raw),
+SEXO,SEXO DEL FALLECIDO,F1.0,2,sex,harmonized,recode with values.csv
+ANION,AÑO DE NACIMIENTO DEL FALLECIDO,F4.0,0,,not harmonized (carried raw),
+MESN,MES DE NACIMIENTO DEL FALLECIDO,F2.0,0,,not harmonized (carried raw),
+ANIOF,AÑO DE FALLECIMIENTO,F4.0,0,event_year,harmonized,as integer
+MESF,MES DE FALLECIMIENTO,F2.0,0,event_month,harmonized,as integer
+EDAD,"EDAD EN HORAS, DÍAS, MESES O AÑOS DEL FALLECIDO",F2.0,0,age_value,harmonized,as integer; 99 with age_unit 9 (2000-2012) or 999 (2013+) -> NA
+COD_EDA,CÓDIGO DE EDAD DEL FALLECIDO,F1.0,5,age_unit,harmonized,recode with values.csv
+PROVF,PROVINCIA DE FALLECIMIENTO,F2.0,26,prov_occ,harmonized,recode with values.csv
+CANTF,CANTÓN DE FALLECIMIENTO,F2.0,0,cant_occ,harmonized,"4-digit DPA = sprintf(""%02d%02d"", raw province, raw canton). Raw canton is 2-digit within province. Special: province 88/90 with canton 0 = Exterior -> 8800; see values.csv for province recodes"
+PARRF,PARROQUIA DE FALLECIMIENTO,F2.0,0,,not harmonized (carried raw),
+ZONAF,ZONA DE FALLECIMIENTO,F1.0,3,,not harmonized (carried raw),
+EMBARA,ESTUVO EMBARAZADA CUANDO FALLECIO,F1.0,4,,not harmonized (carried raw),
+MESES,MESES DE EMBARZO,F1.0,0,,not harmonized (carried raw),
+SEMANA6,EN LAS ULTIMAS 6 SEMANAS DIO A LUZ,F1.0,4,,not harmonized (carried raw),
+ATENCION,RECIBIO ATENCIÓN PARA CONTROL DE EMBARAZO,F1.0,4,,not harmonized (carried raw),
+CONSULTA,NÚMERO DE CONSULTAS DE EMBARAZO,F2.0,0,,not harmonized (carried raw),
+ESTADO,ESTADO CIVIL DEL FALLECIDO,F1.0,8,,not harmonized (carried raw),
+OCURRIO,LUGAR DE OCURRENCIA DEL FALLECIMIENTO,F1.0,6,place_occ,harmonized,recode with values.csv
+CERT_POR,CERTIFICACIÓN DE DEFUNCIÓN,F1.0,5,,not harmonized (carried raw),
+PROVR,PROVINCIA DE RESIDENCIA DEL FALLECIDO,F2.0,26,prov_res,harmonized,recode with values.csv
+CANTR,CANTÓN DE RESIDENCIA DEL FALLECIDO,F2.0,0,cant_res,harmonized,"4-digit DPA = sprintf(""%02d%02d"", raw province, raw canton). Raw canton is 2-digit within province. Special: province 88/90 with canton 0 = Exterior -> 8800; see values.csv for province recodes"
+PARRR,PARROQUIA DE RESIDENCIA DEL FALLECIDO,F2.0,0,,not harmonized (carried raw),
+ZONAR,ZONA DE RESIDENCIA DEL FALLECIDO,F1.0,3,area_res,harmonized,recode with values.csv
+RESIDENT,TIPO DE RESIDENCIA DEL FALLECIDO,F1.0,2,residente,harmonized,recode with values.csv
+LEER,SABÍA LEER O ESCRIBIR EL FALLECIDO,F1.0,4,,not harmonized (carried raw),
+NIVEL,NIVEL DE INSTRUCCIÓN DEL FALLECIDO,F1.0,10,,not harmonized (carried raw),
+CAUSA4,CAUSA DE FALLECIMIENTO 4 DIGITOS,A4,0,icd10,harmonized,causa4 as delivered (3 or 4 characters). 2008-2010: equals causa+causa1 and codcausa in every record
+PAREN,PARENTEZCO DEL FALLECIDO CON LA PERSONA QUE INSCRIBE,F1.0,8,,not harmonized (carried raw),
+causa,CAUSA DE FALLECIMIENTO CIE-10 A 3 DIG,A3,1773,,not harmonized (carried raw),
+causa1,CUARTO DIGITO DE LA CAUSA DE FALLECIMIENTO CIE-10,A1,0,,not harmonized (carried raw),
+codcausa,Causa Numérica,F6.0,12907,,not harmonized (carried raw),
+causa103,,F3.0,103,,not harmonized (carried raw),
+causa80,,F3.0,80,,not harmonized (carried raw),
+causa667,,F3.0,69,,not harmonized (carried raw),
+REGIONAL,REGIONAL,F2.0,4,,not harmonized (carried raw),

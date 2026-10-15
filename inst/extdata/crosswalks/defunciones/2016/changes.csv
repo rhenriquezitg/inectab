@@ -1,0 +1,21 @@
+change,std_var,raw,detail
+variable_added,,mor_mat,
+variable_removed,,mort_mat,
+variable_case_changed,,obser_mort_mat,1 variables change letter case only
+label_changed,age_unit,9,"""Ignorado"" -> ""Sin información"""
+label_changed,age_unit,2,"""Días"" -> ""Dias"""
+label_changed,prov_res,02,"""Bolívar"" -> ""Bolivar"""
+label_changed,prov_res,21,"""Sucumbíos"" -> ""Sucumbios"""
+label_changed,prov_res,13,"""Manabí"" -> ""Manabi"""
+label_changed,prov_res,12,"""Los Ríos"" -> ""Los Rios"""
+label_changed,prov_res,20,"""Galápagos"" -> ""Galapagos"""
+label_changed,prov_res,23,"""Santo Domingo de los Tsáchilas"" -> ""Santo Domingo De Los Tsachilas"""
+label_changed,prov_occ,02,"""Bolívar"" -> ""Bolivar"""
+label_changed,prov_occ,21,"""Sucumbíos"" -> ""Sucumbios"""
+label_changed,prov_occ,13,"""Manabí"" -> ""Manabi"""
+label_changed,prov_occ,12,"""Los Ríos"" -> ""Los Rios"""
+label_changed,prov_occ,20,"""Galápagos"" -> ""Galapagos"""
+label_changed,prov_occ,23,"""Santo Domingo de los Tsáchilas"" -> ""Santo Domingo De Los Tsachilas"""
+label_changed,place_occ,7,"""Otro"" -> ""OTRO (Especifique)"""
+label_changed,place_occ,5,"""Hospital, clínica o consultorio particular"" -> ""Hospital; Clinica o Consultorio Privado"""
+label_changed,place_occ,4,"""Otro establecimiento del estado"" -> ""Otro Establecimiento Público(Municipios,Consejos Provinciales,FF.AA, Policia, etc.)"""

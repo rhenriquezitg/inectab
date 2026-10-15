@@ -1,0 +1,9 @@
+change,std_var,raw,detail
+variable_added,,dis_pac,
+variable_added,,etnia,
+code_removed,age_unit,9,
+label_changed,age_unit,3,"""Anios (1 a 115 anios de edad)"" -> ""Años (1 a 115 años de edad)"""
+label_changed,age_unit,1,"""Dias (1 a 29 dias de edad)"" -> ""Días (1 a 28 días de edad)"""
+label_changed,discharge_cond,2,"""Fallecido en menos de 48H"" -> ""Fallecido < 48H"""
+label_changed,discharge_cond,3,"""Fallecido en 48H y más"" -> ""Fallecido 48H y más"""
+label_changed,sector,3,"""Privado Sin Fines de Lucro"" -> ""Privado fin fines de lucro"""

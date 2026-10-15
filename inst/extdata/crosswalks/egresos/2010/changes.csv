@@ -1,0 +1,6 @@
+change,std_var,raw,detail
+variable_case_changed,,codestad estsalud aniestad proubies canubies parubies claestsa tipestsa ...,31 variables change letter case only
+code_removed,prov_occ,88 90,
+label_changed,discharge_cond,2,"""Fallecido < 48H"" -> ""MENOS DE 48 HORAS"""
+label_changed,discharge_cond,3,"""Fallecido 48H y más"" -> ""48 HORAS Y MAS"""
+label_changed,discharge_cond,1,"""Alta"" -> ""ALTAS"""

@@ -1,0 +1,9 @@
+change,std_var,raw,detail
+variable_added,,CAP221RX,
+variable_added,,CAUSA3,
+code_removed,prov_res,99,
+label_changed,prov_res,90,"""ZONAS NO DELIMITADAS"" -> ""ZONA NO DELIMITA"""
+label_changed,prov_res,88,"""EXTRANJERO"" -> ""EXTRANJERA"""
+code_removed,prov_occ,99,
+label_changed,prov_occ,90,"""ZONAS NO DELIMITADAS"" -> ""ZONA NO DELIMITA"""
+label_changed,prov_occ,88,"""EXTRANJERO"" -> ""EXTRANJERA"""

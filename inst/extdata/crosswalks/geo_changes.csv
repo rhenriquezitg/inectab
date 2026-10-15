@@ -1,0 +1,13 @@
+scheme,from_cant,to_cant,datasets,years,evidence
+dpa_2024,1706,2301,both,2000-2007,"Santo Domingo canton (Pichincha) became province 23 in 2007. INEC egresos 2013 canton labels list 1706 Santo Domingo. 2007 count 1,310 deaths in 1706 vs 1,377 in 2301 in 2008"
+dpa_2024,0917,2401,both,2000-2007,Santa Elena canton (Guayas) to province 24. Label 0917 Santa Elena in egresos 2013 labels
+dpa_2024,0926,2402,both,2000-2007,La Libertad canton (Guayas) to province 24. Label 0926 La Libertad
+dpa_2024,0915,2403,both,2000-2007,Salinas canton (Guayas) to province 24. Label 0915 Salinas
+dpa_2024,9002,2302,both,2004-2009,"La Concordia: zona no delimitada (90-02) in 2004-2007 (defunciones) and 2004-2009 (egresos residue), Esmeraldas 0808 in 2008-2013, Santo Domingo 2302 from 2014. Labels: 9002/0808/2302 La Concordia"
+dpa_2024,0808,2302,both,2008-2013,"La Concordia coded in Esmeraldas 2008-2013, in Santo Domingo from 2014"
+dpa_pre2007,2301,1706,both,2008-2024,Fold Santo Domingo back into Pichincha
+dpa_pre2007,2401,0917,both,2008-2024,Fold Santa Elena back into Guayas
+dpa_pre2007,2402,0926,both,2008-2024,Fold La Libertad back into Guayas
+dpa_pre2007,2403,0915,both,2008-2024,Fold Salinas back into Guayas
+dpa_pre2007,0808,9002,both,2008-2013,La Concordia back to zona no delimitada
+dpa_pre2007,2302,9002,both,2014-2024,La Concordia back to zona no delimitada

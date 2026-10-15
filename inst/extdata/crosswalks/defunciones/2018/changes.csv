@@ -1,0 +1,9 @@
+change,std_var,raw,detail
+variable_added,,Númeración,
+variable_added,residente,residente,
+variable_removed,,mor_mat,
+std_var_now_available,residente,residente,
+label_changed,prov_res,90,"""Zona no delimitada"" -> ""Zonas no Delimitadas"""
+label_changed,prov_res,20,"""Galápagos"" -> ""Galapagos"""
+label_changed,prov_occ,90,"""Zona no delimitada"" -> ""Zonas no Delimitadas"""
+label_changed,prov_occ,20,"""Galápagos"" -> ""Galapagos"""

@@ -1,0 +1,22 @@
+std_var,datasets,type,description
+event_year,both,integer,Year of the event. Defunciones: year of death. Egresos: year of discharge.
+event_month,both,integer,Month of the event (1-12).
+reg_year,defunciones,integer,Year of registration at Registro Civil.
+adm_year,egresos,integer,Year of hospital admission.
+adm_month,egresos,integer,Month of hospital admission.
+sex,both,code,"1 Hombre, 2 Mujer, 3 Indeterminado (egresos 2017+ only). NA = missing."
+age_value,both,integer,"Age as recorded, in the unit given by age_unit. Sentinels set to NA."
+age_unit,both,code,"h hours, d days, m months, y years. NA = unknown."
+age_years,both,numeric,"Derived: age_value converted to years (h/8766, d/365.25, m/12, y)."
+prov_res,both,code,"Province of usual residence, 2-digit DPA. 88 Exterior, 90 Zonas no delimitadas."
+cant_res,both,code,"Canton of usual residence, 4-digit DPA (prov+cant). Defunciones: absent 2015+."
+prov_occ,both,code,Province of occurrence. Defunciones: place of death. Egresos: province where the establishment is located.
+cant_occ,both,code,"Canton of occurrence, 4-digit DPA. Egresos: absent 2000-2001."
+area_res,both,code,"1 Urbana, 2 Rural, 3 Periferica (defunciones 2000-2010 only). Egresos: 2015+ only."
+residente,defunciones,code,"1 Residente, 2 No residente (INEC derived flag). Absent 2013-2017."
+place_occ,defunciones,code,"Place of death, harmonized to the coarse pre-2012 scheme: 1 MSP, 2 IESS, 3 Otro establecimiento publico o Junta de Beneficencia, 4 Privado, 5 Casa, 6 Otro."
+discharge_cond,egresos,code,"1 Vivo (alta), 2 Fallecido < 48 h, 3 Fallecido >= 48 h."
+los_days,egresos,integer,Length of stay in days (dias de estada).
+sector,egresos,code,"1 Publico, 2 Privado con fines de lucro, 3 Privado sin fines de lucro."
+icd10,both,code,"Underlying cause (defunciones) or main diagnosis (egresos), ICD-10, 3 or 4 characters, no dot, no filler."
+icd10_raw,both,string,"Cause code exactly as delivered (after the per-year construction rule, before normalization)."

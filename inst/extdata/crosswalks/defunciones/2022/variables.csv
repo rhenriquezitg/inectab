@@ -1,0 +1,47 @@
+raw_name,raw_label,spss_format,n_value_labels,std_var,status,transform
+Numeracion,Secuencial de registros,F5.0,0,,not harmonized (carried raw),
+prov_insc,SecRegistroCivil P2 Provincia de inscripción,A2,26,,not harmonized (carried raw),
+cant_insc,SecRegistroCivil P2 Cantón de inscripción,A4,228,,not harmonized (carried raw),
+parr_insc,SecRegistroCivil P2 Parroquia de inscripción,A6,1318,,not harmonized (carried raw),
+anio_insc,SecRegistroCivil P3 Año de inscripción,A4,0,reg_year,harmonized,as integer; blank -> NA
+mes_insc,SecRegistroCivil P3 Mes de inscripción,F2.0,12,,not harmonized (carried raw),
+dia_insc,SecRegistroCivil P3 Día de inscripción,A2,0,,not harmonized (carried raw),
+fecha_insc,SecRegistroCivil P3 Fecha de inscripción,A10,0,,not harmonized (carried raw),
+nac_fall,SecA P7 Nacionalidad,F1.0,3,,not harmonized (carried raw),
+cod_pais,SecA P7 Código del país,A3,126,,not harmonized (carried raw),
+sexo,SecA P8 Sexo,F1.0,2,sex,harmonized,recode with values.csv
+anio_nac,SecA P9 Año de nacimiento del fallecido/a,F4.0,1,,not harmonized (carried raw),
+mes_nac,SecA P9 Mes de nacimiento del fallecido/a,F2.0,13,,not harmonized (carried raw),
+dia_nac,SecA P9 Día de nacimiento del fallecido/a,F2.0,1,,not harmonized (carried raw),
+fecha_nac,SecA P9 Fecha de nacimiento del fallecido/a,A10,0,,not harmonized (carried raw),
+anio_fall,SecA P10 Año de fallecimiento del fallecido/a,F4.0,0,event_year,harmonized,as integer
+mes_fall,SecA P10 Mes de fallecimiento del fallecido/a,F2.0,12,event_month,harmonized,as integer
+dia_fall,SecA P10 Día de fallecimiento del fallecido/a,F2.0,0,,not harmonized (carried raw),
+fecha_fall,SecA P10 Fecha de fallecimiento del fallecido/a,A10,0,,not harmonized (carried raw),
+cod_edad,SecA P13 Código de edad al fallecer,F1.0,5,age_unit,harmonized,recode with values.csv
+edad,SecA P13 Edad al fallecer,F3.0,1,age_value,harmonized,as integer; 99 with age_unit 9 (2000-2012) or 999 (2013+) -> NA
+prov_res,SecA P14 Provincia de residencia habitual del fallecido,A2,26,prov_res,harmonized,recode with values.csv
+sabe_leer,SecA P17.2 Alfabetismo ¿Sabía leer y escribir?,F1.0,3,,not harmonized (carried raw),
+etnia,SecA P18 Identificación étnica de acuerdo con la cultura y costumbres,F1.0,9,,not harmonized (carried raw),
+lugar_ocur,SecA P19 Lugar de ocurrencia del fallecimiento,F1.0,8,place_occ,harmonized,recode with values.csv
+prov_fall,SecA P19 Provincia de fallecimiento,A2,24,prov_occ,harmonized,recode with values.csv
+cant_fall,SecA P19 Cantón de fallecimiento,A4,221,cant_occ,harmonized,as 4-character string (already 4-digit DPA)
+parr_fall,SecA P19 Parroquia de fallecimiento,A6,1318,,not harmonized (carried raw),
+muj_fertil,SecB P22 En el caso de que la defunción corresponde a una mujer en edad fértil,A1,8,,not harmonized (carried raw),
+mor_viol,SecB P23.1 Tipo presuntivo de la muerte accidental o violenta,F1.0,6,,not harmonized (carried raw),
+lug_viol,SecB P23.2 Lugar presuntivo donde ocurrió el hecho,F1.0,10,,not harmonized (carried raw),
+autopsia,SecB P24 Se realizó necropsia/autopsia?,F1.0,3,,not harmonized (carried raw),
+causa4,SecE P29 Causa básica de defunción (categorías - 4 caracteres),A4,14328,icd10,harmonized,causa4 as delivered (3 or 4 characters). 2008-2010: equals causa+causa1 and codcausa in every record
+cer_por,SecB P20 Certificado por,F1.0,5,,not harmonized (carried raw),
+area_fall,Área de fallecimiento,F1.0,2,,not harmonized (carried raw),
+area_res,Área de residencia habitual del fallecido(a),F1.0,2,area_res,harmonized,recode with values.csv
+est_civil,SecA P16 Estado civil y/o conyugal,F1.0,8,,not harmonized (carried raw),
+niv_inst,SecA P17.1 Nivel de instrucción,F1.0,10,,not harmonized (carried raw),
+residente,Variable creada para identificar si el fallecido es residente,F1.0,2,residente,harmonized,recode with values.csv
+causa,SecB P17 Causa básica de defunción (categorías - 3 caracteres),A3,2053,,not harmonized (carried raw),
+lc1,Lista corta de causas de defunción,F2.0,69,,not harmonized (carried raw),
+causa103,Lista condensada (103 causas),A3,104,,not harmonized (carried raw),
+causa80,Lista de tabulación 2 para la mortalidad subcategorías (80 causas),A3,81,,not harmonized (carried raw),
+causa67A,Lista condensada (67 causas)A,A3,19,,not harmonized (carried raw),
+causa67B,Lista condensada desagregada (67 causas)B,A3,59,,not harmonized (carried raw),
+,,,0,cant_res,absent this year -> NA,

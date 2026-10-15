@@ -1,0 +1,106 @@
+variable,std_var,label_latest,first_year,last_year,n_years,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024
+cod_estadi,,,2000,2001,2,COD_ESTADI,COD_ESTADI,,,,,,,,,,,,,,,,,,,,,,,
+pro_ubiest,prov_occ,,2000,2001,2,PRO_UBIEST,PRO_UBIEST,,,,,,,,,,,,,,,,,,,,,,,
+cla_estsal,,,2000,2001,2,CLA_ESTSAL,CLA_ESTSAL,,,,,,,,,,,,,,,,,,,,,,,
+tip_estsal,,,2000,2001,2,TIP_ESTSAL,TIP_ESTSAL,,,,,,,,,,,,,,,,,,,,,,,
+ent_estsal,,,2000,2001,2,ENT_ESTSAL,ENT_ESTSAL,,,,,,,,,,,,,,,,,,,,,,,
+sec_estsal,sector,,2000,2001,2,SEC_ESTSAL,SEC_ESTSAL,,,,,,,,,,,,,,,,,,,,,,,
+bol_estsal,,,2000,2001,2,BOL_ESTSAL,BOL_ESTSAL,,,,,,,,,,,,,,,,,,,,,,,
+ani_estadi,event_year,,2000,2001,2,ANI_ESTADI,ANI_ESTADI,,,,,,,,,,,,,,,,,,,,,,,
+mes_estadi,,,2000,2001,2,MES_ESTADI,MES_ESTADI,,,,,,,,,,,,,,,,,,,,,,,
+ord_egrpac,,,2000,2001,2,ORD_EGRPAC,ORD_EGRPAC,,,,,,,,,,,,,,,,,,,,,,,
+con_edadpa,age_unit,,2000,2001,2,CON_EDADPA,CON_EDADPA,,,,,,,,,,,,,,,,,,,,,,,
+eda_pacien,age_value,,2000,2001,2,EDA_PACIEN,EDA_PACIEN,,,,,,,,,,,,,,,,,,,,,,,
+sex_pacien,sex,,2000,2001,2,SEX_PACIEN,SEX_PACIEN,,,,,,,,,,,,,,,,,,,,,,,
+pro_respac,prov_res,,2000,2001,2,PRO_RESPAC,PRO_RESPAC,,,,,,,,,,,,,,,,,,,,,,,
+can_respac,cant_res,,2000,2001,2,CAN_RESPAC,CAN_RESPAC,,,,,,,,,,,,,,,,,,,,,,,
+par_respac,,,2000,2001,2,PAR_RESPAC,PAR_RESPAC,,,,,,,,,,,,,,,,,,,,,,,
+dia_ingpac,,,2000,2001,2,DIA_INGPAC,DIA_INGPAC,,,,,,,,,,,,,,,,,,,,,,,
+mes_ingpac,adm_month,,2000,2001,2,MES_INGPAC,MES_INGPAC,,,,,,,,,,,,,,,,,,,,,,,
+ani_ingpac,adm_year,,2000,2001,2,ANI_INGPAC,ANI_INGPAC,,,,,,,,,,,,,,,,,,,,,,,
+dia_egrpac,,,2000,2001,2,DIA_EGRPAC,DIA_EGRPAC,,,,,,,,,,,,,,,,,,,,,,,
+mes_egrpac,event_month,,2000,2001,2,MES_EGRPAC,MES_EGRPAC,,,,,,,,,,,,,,,,,,,,,,,
+dia_estada,los_days,,2000,2001,2,DIA_ESTADA,DIA_ESTADA,,,,,,,,,,,,,,,,,,,,,,,
+con_egrpac,discharge_cond,,2000,2001,2,CON_EGRPAC,CON_EGRPAC,,,,,,,,,,,,,,,,,,,,,,,
+cau_10arev,icd10,,2000,2001,2,CAU_10AREV,CAU_10AREV,,,,,,,,,,,,,,,,,,,,,,,
+cau_221r10,,,2000,2001,2,CAU_221R10,CAU_221R10,,,,,,,,,,,,,,,,,,,,,,,
+cau_298r10,,,2000,2001,2,CAU_298R10,CAU_298R10,,,,,,,,,,,,,,,,,,,,,,,
+codestad,,CODIGO APLICACION,2002,2010,9,,,CODESTAD,CODESTAD,CODESTAD,CODESTAD,CODESTAD,CODESTAD,CODESTAD,CODESTAD,codestad,,,,,,,,,,,,,,
+proubies,prov_occ,PROVINCIA UBICACION ESTABLECIMIENTO,2002,2010,9,,,PROUBIES,PROUBIES,PROUBIES,PROUBIES,PROUBIES,PROUBIES,PROUBIES,PROUBIES,proubies,,,,,,,,,,,,,,
+canubies,cant_occ,CANTON,2002,2010,9,,,CANUBIES,CANUBIES,CANUBIES,CANUBIES,CANUBIES,CANUBIES,CANUBIES,CANUBIES,canubies,,,,,,,,,,,,,,
+parubies,,PARROQUIA,2002,2010,9,,,PARUBIES,PARUBIES,PARUBIES,PARUBIES,PARUBIES,PARUBIES,PARUBIES,PARUBIES,parubies,,,,,,,,,,,,,,
+estsalud,,CODIGO ESTABLECIMIENTO,2002,2010,7,,,ESTSALUD,ESTSALUD,,,ESTSALUD,ESTSALUD,ESTSALUD,ESTSALUD,estsalud,,,,,,,,,,,,,,
+claestsa,,CLASE ESTABLECIMIENTO,2002,2010,9,,,CLAESTSA,CLAESTSA,CLAESTSA,CLAESTSA,CLAESTSA,CLAESTSA,CLAESTSA,CLAESTSA,claestsa,,,,,,,,,,,,,,
+tipestsa,,TIPO ESTABLECIMIENTO,2002,2010,9,,,TIPESTSA,TIPESTSA,TIPESTSA,TIPESTSA,TIPESTSA,TIPESTSA,TIPESTSA,TIPESTSA,tipestsa,,,,,,,,,,,,,,
+entestsa,,ENTIDAD ESTABLECIMIENTO,2002,2010,9,,,ENTESTSA,ENTESTSA,ENTESTSA,ENTESTSA,ENTESTSA,ENTESTSA,ENTESTSA,ENTESTSA,entestsa,,,,,,,,,,,,,,
+secestsa,sector,SECTOR ESTABLECIMIENTO,2002,2010,9,,,SECESTSA,SECESTSA,SECESTSA,SECESTSA,SECESTSA,SECESTSA,SECESTSA,SECESTSA,secestsa,,,,,,,,,,,,,,
+bolestsa,,BOLETA ESTABLECIMIENTO,2002,2010,9,,,BOLESTSA,BOLESTSA,BOLESTSA,BOLESTSA,BOLESTSA,BOLESTSA,BOLESTSA,BOLESTSA,bolestsa,,,,,,,,,,,,,,
+aniestad,event_year,AÑO ESTADISTICA,2002,2010,9,,,ANIESTAD,ANIESTAD,ANIESTAD,ANIESTAD,ANIESTAD,ANIESTAD,ANIESTAD,ANIESTAD,aniestad,,,,,,,,,,,,,,
+mesestad,,MES REGISTRO,2002,2010,9,,,MESESTAD,MESESTAD,MESESTAD,MESESTAD,MESESTAD,MESESTAD,MESESTAD,MESESTAD,mesestad,,,,,,,,,,,,,,
+ordegrpa,,NUMERO DE ORDEN,2002,2010,9,,,ORDEGRPA,ORDEGRPA,ORDEGRPA,ORDEGRPA,ORDEGRPA,ORDEGRPA,ORDEGRPA,ORDEGRPA,ordegrpa,,,,,,,,,,,,,,
+conedadp,age_unit,CONDICION EDAD,2002,2010,9,,,CONEDADP,CONEDADP,CONEDADP,CONEDADP,CONEDADP,CONEDADP,CONEDADP,CONEDADP,conedadp,,,,,,,,,,,,,,
+edapacie,age_value,EDAD PACIENTE,2002,2010,9,,,EDAPACIE,EDAPACIE,EDAPACIE,EDAPACIE,EDAPACIE,EDAPACIE,EDAPACIE,EDAPACIE,edapacie,,,,,,,,,,,,,,
+sexpacie,sex,SEXO PACIENTE,2002,2010,9,,,SEXPACIE,SEXPACIE,SEXPACIE,SEXPACIE,SEXPACIE,SEXPACIE,SEXPACIE,SEXPACIE,sexpacie,,,,,,,,,,,,,,
+prorespa,prov_res,PROVINCIA RESIDENCIA PACIENTE,2002,2010,9,,,PRORESPA,PRORESPA,PRORESPA,PRORESPA,PRORESPA,PRORESPA,PRORESPA,PRORESPA,prorespa,,,,,,,,,,,,,,
+canrespa,cant_res,CANTON RESIDENCIA,2002,2010,9,,,CANRESPA,CANRESPA,CANRESPA,CANRESPA,CANRESPA,CANRESPA,CANRESPA,CANRESPA,canrespa,,,,,,,,,,,,,,
+parrespa,,PARROQUIA RESIDENCIA,2002,2010,9,,,PARRESPA,PARRESPA,PARRESPA,PARRESPA,PARRESPA,PARRESPA,PARRESPA,PARRESPA,parrespa,,,,,,,,,,,,,,
+diaingpa,,DIA INGRESO,2002,2010,9,,,DIAINGPA,DIAINGPA,DIAINGPA,DIAINGPA,DIAINGPA,DIAINGPA,DIAINGPA,DIAINGPA,diaingpa,,,,,,,,,,,,,,
+mesingpa,adm_month,MES INGRESO,2002,2010,9,,,MESINGPA,MESINGPA,MESINGPA,MESINGPA,MESINGPA,MESINGPA,MESINGPA,MESINGPA,mesingpa,,,,,,,,,,,,,,
+aniingpa,adm_year,AÑO INGRESO,2002,2010,9,,,ANIINGPA,ANIINGPA,ANIINGPA,ANIINGPA,ANIINGPA,ANIINGPA,ANIINGPA,ANIINGPA,aniingpa,,,,,,,,,,,,,,
+diaegrpa,,DIA EGRESO,2002,2010,9,,,DIAEGRPA,DIAEGRPA,DIAEGRPA,DIAEGRPA,DIAEGRPA,DIAEGRPA,DIAEGRPA,DIAEGRPA,diaegrpa,,,,,,,,,,,,,,
+mesegrpa,event_month,MES EGRESO,2002,2010,9,,,MESEGRPA,MESEGRPA,MESEGRPA,MESEGRPA,MESEGRPA,MESEGRPA,MESEGRPA,MESEGRPA,mesegrpa,,,,,,,,,,,,,,
+diaestad,los_days,DIAS ESTADA,2002,2010,9,,,DIAESTAD,DIAESTAD,DIAESTAD,DIAESTAD,DIAESTAD,DIAESTAD,DIAESTAD,DIAESTAD,diaestad,,,,,,,,,,,,,,
+conegrpa,discharge_cond,CONDICION EGRESO,2002,2010,9,,,CONEGRPA,CONEGRPA,CONEGRPA,CONEGRPA,CONEGRPA,CONEGRPA,CONEGRPA,CONEGRPA,conegrpa,,,,,,,,,,,,,,
+cau10are,icd10,CAUSA MORBILIDAD 10ma REV,2002,2010,9,,,CAU10ARE,CAU10ARE,CAU10ARE,CAU10ARE,CAU10ARE,CAU10ARE,CAU10ARE,CAU10ARE,cau10are,,,,,,,,,,,,,,
+cau221rx,,Lista especial de 221 grupos,2002,2024,23,,,CAU221RX,CAU221RX,CAU221RX,CAU221RX,CAU221RX,CAU221RX,CAU221RX,CAU221RX,cau221rx,cau221rx,Cau221rx,cau221rx,cau221rx,cau221rx,cau221rx,cau221rx,cau221rx,cau221rx,cau221rx,cau221rx,cau221rx,cau221rx,cau221rx
+cau298rx,,Lista de causas 298,2002,2024,23,,,CAU298RX,CAU298RX,CAU298RX,CAU298RX,CAU298RX,CAU298RX,CAU298RX,CAU298RX,cau298rx,cau298rx,Cau298rx,cau298rx,cau298rx,cau298rx,cau298rx,cau298rx,cau298rx,cau298rx,cau298rx,cau298rx,cau298rx,cau298rx,cau298rx
+cap221rx,,Capitulo lista 221,2007,2024,18,,,,,,,,CAP221RX,CAP221RX,CAP221RX,cap221rx,cap221rx,Cap221rx,cap221rx,cap221rx,cap221rx,cap221rx,cap221rx,cap221rx,cap221rx,cap221rx,cap221rx,cap221rx,cap221rx,cap221rx
+causa3,,Causa de lista internacional detallada a 3 dígitos de la CIE-10,2007,2024,17,,,,,,,,CAUSA3,CAUSA3,CAUSA3,causa3,,Causa3,causa3,causa3,causa3,causa3,causa3,causa3,causa3,causa3,causa3,causa3,causa3,causa3
+cod_est,,Código del establecimiento de salud,2011,2014,4,,,,,,,,,,,,cod_est,Cod_est,cod_est,cod_est,,,,,,,,,,
+ani_inv,event_year,Año de la estadística,2011,2012,2,,,,,,,,,,,,ani_inv,Ani_inv,,,,,,,,,,,,
+prov_ubie,prov_occ,Provincia ubicación establecimiento,2011,2012,2,,,,,,,,,,,,prov_ubie,Prov_ubie,,,,,,,,,,,,
+cant_ubie,cant_occ,Cantón ubicación establecimiento,2011,2012,2,,,,,,,,,,,,cant_ubie,Cant_ubie,,,,,,,,,,,,
+par_ubie,,Parroquia  de ubicación del establecimiento,2011,2011,1,,,,,,,,,,,,par_ubie,,,,,,,,,,,,,
+clase,,Clase de establecimiento de salud,2011,2024,14,,,,,,,,,,,,clase,Clase,clase,clase,clase,clase,clase,clase,clase,clase,clase,clase,clase,clase
+tipo,,Tipo de establecimiento de salud,2011,2024,14,,,,,,,,,,,,tipo,Tipo,tipo,tipo,tipo,tipo,tipo,tipo,tipo,tipo,tipo,tipo,tipo,tipo
+entidad,,Entidad a la que pertenece el establecimiento de salud,2011,2024,14,,,,,,,,,,,,entidad,Entidad,entidad,entidad,entidad,entidad,entidad,entidad,entidad,entidad,entidad,entidad,entidad,entidad
+sector,sector,Sector al que pertenece el establecimiento de salud,2011,2024,14,,,,,,,,,,,,sector,Sector,sector,sector,sector,sector,sector,sector,sector,sector,sector,sector,sector,sector
+mes_inv,,Mes de registro/investigación,2011,2024,14,,,,,,,,,,,,mes_inv,Mes_inv,mes_inv,mes_inv,mes_inv,mes_inv,mes_inv,mes_inv,mes_inv,mes_inv,mes_inv,mes_inv,mes_inv,mes_inv
+negreso,,Numero de orden,2011,2011,1,,,,,,,,,,,,negreso,,,,,,,,,,,,,
+cond_edad,age_unit,P5 Condición edad,2011,2012,2,,,,,,,,,,,,cond_edad,Cond_edad,,,,,,,,,,,,
+edad_pac,age_value,P5 Edad paciente,2011,2012,2,,,,,,,,,,,,edad_pac,Edad_pac,,,,,,,,,,,,
+sexo_pac,sex,P6 Sexo paciente,2011,2012,2,,,,,,,,,,,,sexo_pac,Sexo_pac,,,,,,,,,,,,
+prov_pac,prov_res,P7 Provincia residencia paciente,2011,2012,2,,,,,,,,,,,,prov_pac,Prov_pac,,,,,,,,,,,,
+cant_pac,cant_res,P7 Cantón residencia paciente,2011,2012,2,,,,,,,,,,,,cant_pac,Cant_pac,,,,,,,,,,,,
+parr_pac,,P7 Parroquia residencia paciente,2011,2012,2,,,,,,,,,,,,parr_pac,Parr_pac,,,,,,,,,,,,
+dia_ingr,,Día de ingreso,2011,2024,14,,,,,,,,,,,,dia_ingr,Dia_ingr,dia_ingr,dia_ingr,dia_ingr,dia_ingr,dia_ingr,dia_ingr,dia_ingr,dia_ingr,dia_ingr,dia_ingr,dia_ingr,dia_ingr
+mes_ingr,adm_month,Mes de ingreso,2011,2024,14,,,,,,,,,,,,mes_ingr,Mes_ingr,mes_ingr,mes_ingr,mes_ingr,mes_ingr,mes_ingr,mes_ingr,mes_ingr,mes_ingr,mes_ingr,mes_ingr,mes_ingr,mes_ingr
+anio_ingr,adm_year,Año de ingreso,2011,2024,14,,,,,,,,,,,,anio_ingr,Anio_ingr,anio_ingr,anio_ingr,anio_ingr,anio_ingr,anio_ingr,anio_ingr,anio_ingr,anio_ingr,anio_ingr,anio_ingr,anio_ingr,anio_ingr
+dia_egr,,Día de egreso,2011,2024,14,,,,,,,,,,,,dia_egr,Dia_egr,dia_egr,dia_egr,dia_egr,dia_egr,dia_egr,dia_egr,dia_egr,dia_egr,dia_egr,dia_egr,dia_egr,dia_egr
+mes_egr,event_month,Mes de egreso,2011,2024,14,,,,,,,,,,,,mes_egr,Mes_egr,mes_egr,mes_egr,mes_egr,mes_egr,mes_egr,mes_egr,mes_egr,mes_egr,mes_egr,mes_egr,mes_egr,mes_egr
+dia_estad,los_days,Días de estada,2011,2024,14,,,,,,,,,,,,dia_estad,Dia_estad,dia_estad,dia_estad,dia_estad,dia_estad,dia_estad,dia_estad,dia_estad,dia_estad,dia_estad,dia_estad,dia_estad,dia_estad
+con_egrpa,discharge_cond,Condición al egreso,2011,2024,14,,,,,,,,,,,,con_egrpa,Con_egrpa,con_egrpa,con_egrpa,con_egrpa,con_egrpa,con_egrpa,con_egrpa,con_egrpa,con_egrpa,con_egrpa,con_egrpa,con_egrpa,con_egrpa
+cau_cie10,icd10,Causa de lista internacional detallada a 4 dígitos de la CIE-10,2011,2024,14,,,,,,,,,,,,cau_cie10,Cau_cie10,cau_cie10,cau_cie10,cau_cie10,cau_cie10,cau_cie10,cau_cie10,cau_cie10,cau_cie10,cau_cie10,cau_cie10,cau_cie10,cau_cie10
+edad_repac,,Edad real paciente,2011,2011,1,,,,,,,,,,,,edad_repac,,,,,,,,,,,,,
+parr_ubie,,Parroquia ubicación establecimiento,2012,2012,1,,,,,,,,,,,,,Parr_ubie,,,,,,,,,,,,
+prov_ubi,prov_occ,Provincia de ubicación del establecimiento de salud,2013,2024,12,,,,,,,,,,,,,,prov_ubi,prov_ubi,prov_ubi,prov_ubi,prov_ubi,prov_ubi,prov_ubi,prov_ubi,prov_ubi,prov_ubi,prov_ubi,prov_ubi
+cant_ubi,cant_occ,Cantón de ubicación del establecimiento de salud,2013,2024,12,,,,,,,,,,,,,,cant_ubi,cant_ubi,cant_ubi,cant_ubi,cant_ubi,cant_ubi,cant_ubi,cant_ubi,cant_ubi,cant_ubi,cant_ubi,cant_ubi
+parr_ubi,,Parroquia de ubicación del establecimiento de salud,2013,2024,12,,,,,,,,,,,,,,parr_ubi,parr_ubi,parr_ubi,parr_ubi,parr_ubi,parr_ubi,parr_ubi,parr_ubi,parr_ubi,parr_ubi,parr_ubi,parr_ubi
+sexo,sex,Sexo del paciente,2013,2024,12,,,,,,,,,,,,,,sexo,sexo,sexo,sexo,sexo,sexo,sexo,sexo,sexo,sexo,sexo,sexo
+edad,age_value,Edad del paciente,2013,2024,12,,,,,,,,,,,,,,edad,edad,edad,edad,edad,edad,edad,edad,edad,edad,edad,edad
+cod_edad,age_unit,Condición de la edad del paciente,2013,2024,12,,,,,,,,,,,,,,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad,cod_edad
+prov_res,prov_res,Provincia de residencia habitual del paciente,2013,2024,12,,,,,,,,,,,,,,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res,prov_res
+cant_res,cant_res,Cantón de residencia habitual del paciente,2013,2024,12,,,,,,,,,,,,,,cant_res,cant_res,cant_res,cant_res,cant_res,cant_res,cant_res,cant_res,cant_res,cant_res,cant_res,cant_res
+parr_res,,Parroquia de residencia habitual del paciente,2013,2024,12,,,,,,,,,,,,,,parr_res,parr_res,parr_res,parr_res,parr_res,parr_res,parr_res,parr_res,parr_res,parr_res,parr_res,parr_res
+fecha_ingr,,Fecha de ingreso,2013,2024,12,,,,,,,,,,,,,,fecha_ingr,fecha_ingr,fecha_ingr,fecha_ingr,fecha_ingr,fecha_ingr,fecha_ingr,fecha_ingr,fecha_ingr,fecha_ingr,fecha_ingr,fecha_ingr
+anio_egr,event_year,Año de egreso,2013,2024,12,,,,,,,,,,,,,,anio_egr,anio_egr,anio_egr,anio_egr,anio_egr,anio_egr,anio_egr,anio_egr,anio_egr,anio_egr,anio_egr,anio_egr
+fecha_egr,,Fecha de egreso,2013,2024,12,,,,,,,,,,,,,,fecha_egr,fecha_egr,fecha_egr,fecha_egr,fecha_egr,fecha_egr,fecha_egr,fecha_egr,fecha_egr,fecha_egr,fecha_egr,fecha_egr
+etnia,,Definición étnica del paciente,2014,2024,11,,,,,,,,,,,,,,,etnia,etnia,etnia,etnia,etnia,etnia,etnia,etnia,etnia,etnia,etnia
+dis_pac,,Discapacidad al momento del ingreso del paciente,2014,2024,2,,,,,,,,,,,,,,,dis_pac,,,,,,,,,,dis_pac
+area_ubi,,Área de ubicación del establecimiento de salud,2015,2024,10,,,,,,,,,,,,,,,,area_ubi,area_ubi,area_ubi,area_ubi,area_ubi,area_ubi,area_ubi,area_ubi,area_ubi,area_ubi
+nac_pac,,Nacionalidad del paciente,2015,2024,10,,,,,,,,,,,,,,,,nac_pac,nac_pac,nac_pac,nac_pac,nac_pac,nac_pac,nac_pac,nac_pac,nac_pac,nac_pac
+nom_pais,,Nombre del país,2015,2024,10,,,,,,,,,,,,,,,,nom_pais,nom_pais,nom_pais,nom_pais,nom_pais,nom_pais,nom_pais,nom_pais,nom_pais,nom_pais
+cod_pais,,Código del país,2015,2024,10,,,,,,,,,,,,,,,,cod_pais,cod_pais,cod_pais,cod_pais,cod_pais,cod_pais,cod_pais,cod_pais,cod_pais,cod_pais
+area_res,area_res,Área de residencia habitual del paciente,2015,2024,10,,,,,,,,,,,,,,,,area_res,area_res,area_res,area_res,area_res,area_res,area_res,area_res,area_res,area_res
+esp_egrpa,,Especialidad del egreso,2015,2024,10,,,,,,,,,,,,,,,,esp_egrpa,esp_egrpa,esp_egrpa,esp_egrpa,esp_egrpa,esp_egrpa,esp_egrpa,esp_egrpa,esp_egrpa,esp_egrpa
+tipo_seg,,Tipo de seguro de salud,2024,2024,1,,,,,,,,,,,,,,,,,,,,,,,,,tipo_seg

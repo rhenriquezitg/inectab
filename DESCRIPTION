@@ -1,0 +1,34 @@
+Package: inectab
+Type: Package
+Title: Harmonize and Tabulate INEC Ecuador Death and Hospital Discharge Records
+Version: 0.3.2
+Authors@R: person("Rodrigo", "Henriquez Trujillo", email = "henriquezmd@gmail.com",
+    role = c("aut", "cre"), comment = c(ORCID = "0000-0002-3094-4438"))
+Description: Reads the INEC (Instituto Nacional de Estadistica y Censos, Ecuador)
+    SPSS files of defunciones generales and egresos hospitalarios, 2000-2024,
+    applies one crosswalk per year to a standard schema, and caches the result
+    as Parquet. Every run logs unmapped and invalid records.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.1)
+Imports:
+    arrow,
+    cli,
+    dplyr,
+    haven,
+    readr,
+    rlang,
+    stringr,
+    tibble
+Suggests:
+    bslib,
+    DT (>= 0.30),
+    ggplot2,
+    markdown,
+    readxl,
+    shiny,
+    testthat (>= 3.0.0),
+    tidyr,
+    zip
+Config/testthat/edition: 3
+Config/roxygen2/version: 8.1.1

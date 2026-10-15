@@ -1,0 +1,33 @@
+raw_name,raw_label,spss_format,n_value_labels,std_var,status,transform
+CODESTAD,CODIGO APLICACION,A3,0,,not harmonized (carried raw),
+PROUBIES,PROVINCIA UBICACION ESTABLECIMIENTO,A2,24,prov_occ,harmonized,recode with values.csv
+CANUBIES,CANTON,A2,0,cant_occ,harmonized,"4-digit DPA = sprintf(""%02d%02d"", raw province, raw canton). Raw canton is 2-digit within province. Special: province 88/90 with canton 0 = Exterior -> 8800; see values.csv for province recodes"
+PARUBIES,PARROQUIA,A2,0,,not harmonized (carried raw),
+ESTSALUD,CODIGO ESTABLECIMIENTO,A7,0,,not harmonized (carried raw),
+CLAESTSA,CLASE ESTABLECIMIENTO,A2,22,,not harmonized (carried raw),
+TIPESTSA,TIPO ESTABLECIMIENTO,A1,5,,not harmonized (carried raw),
+ENTESTSA,ENTIDAD ESTABLECIMIENTO,A2,18,,not harmonized (carried raw),
+SECESTSA,SECTOR ESTABLECIMIENTO,A1,3,sector,harmonized,recode with values.csv
+BOLESTSA,BOLETA ESTABLECIMIENTO,F5.0,0,,not harmonized (carried raw),
+ANIESTAD,AÑO ESTADISTICA,A4,0,event_year,harmonized,as integer. No discharge-year variable before 2013; the statistical year (anio de la estadistica) is the discharge year
+MESESTAD,MES REGISTRO,A2,12,,not harmonized (carried raw),
+ORDEGRPA,NUMERO DE ORDEN,F5.0,0,,not harmonized (carried raw),
+CONEDADP,CONDICION EDAD,A1,4,age_unit,harmonized,recode with values.csv
+EDAPACIE,EDAD PACIENTE,F2.0,0,age_value,harmonized,as integer; 99 with age_unit 9 (2000-2012) or 999 (2013) -> NA
+SEXPACIE,SEXO PACIENTE,A1,2,sex,harmonized,recode with values.csv
+PRORESPA,PROVINCIA RESIDENCIA PACIENTE,A2,24,prov_res,harmonized,recode with values.csv
+CANRESPA,CANTON RESIDENCIA,A2,0,cant_res,harmonized,"4-digit DPA = sprintf(""%02d%02d"", raw province, raw canton). Raw canton is 2-digit within province. Special: province 88/90 with canton 0 = Exterior -> 8800; see values.csv for province recodes"
+PARRESPA,PARROQUIA RESIDENCIA,A2,0,,not harmonized (carried raw),
+DIAINGPA,DIA INGRESO,F2.0,0,,not harmonized (carried raw),
+MESINGPA,MES INGRESO,A2,12,adm_month,harmonized,as integer
+ANIINGPA,AÑO INGRESO,F4.0,0,adm_year,harmonized,as integer
+DIAEGRPA,DIA EGRESO,F2.0,0,,not harmonized (carried raw),
+MESEGRPA,MES EGRESO,A2,12,event_month,harmonized,as integer
+DIAESTAD,DIAS ESTADA,F5.0,0,los_days,harmonized,as integer (raw is zero-padded text in 2000-2011)
+CONEGRPA,CONDICION EGRESO,A1,3,discharge_cond,harmonized,recode with values.csv
+CAU10ARE,CAUSA MORBILIDAD 10ma REV,A4,0,icd10,harmonized,cau10are / cau_10arev as delivered (3 or 4 characters)
+CAU221RX,LISTA ESPECIAL DE 221 GRUPOS,A3,221,,not harmonized (carried raw),
+CAP221RX,CAPITULO LISTA 221,A2,21,,not harmonized (carried raw),
+CAU298RX,LISTA DE 298 CAUSAS,A3,298,,not harmonized (carried raw),
+CAUSA3,LISTA INTERNACIONAL DETALLADA A 3 DIGITOS,A3,1520,,not harmonized (carried raw),
+,,,0,area_res,absent this year -> NA,

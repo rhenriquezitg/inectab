@@ -1,0 +1,702 @@
+dataset,year,change,std_var,raw,detail
+defunciones,2000,baseline,,,first year in the series
+defunciones,2001,variable_added,,D_R,
+defunciones,2001,variable_case_changed,,CODIGOEN PROV CANT PARR ANOI MESI ACTA ESTAB ...,48 variables change letter case only
+defunciones,2002,variable_removed,,D_R,
+defunciones,2002,code_added,prov_res,88,
+defunciones,2002,code_added,prov_occ,88,
+defunciones,2003,variable_added,,CAUS3670,
+defunciones,2003,variable_added,,CAUS3671,
+defunciones,2003,variable_added,icd10,CODCAUSA,
+defunciones,2003,variable_added,,EDADN,
+defunciones,2003,variable_added,,EDADR,
+defunciones,2003,variable_added,,T,
+defunciones,2003,variable_added,,TIPOREG,
+defunciones,2003,source_renamed,icd10,CAUSA1 -> CODCAUSA,
+defunciones,2003,code_removed,prov_res,88,
+defunciones,2003,label_changed,prov_res,90,"""90 ZONAS NO DELIMITADAS"" -> ""90 EXTERIOR"""
+defunciones,2003,code_removed,prov_occ,88,
+defunciones,2003,label_changed,prov_occ,90,"""90 ZONAS NO DELIMITADAS"" -> ""90 EXTERIOR"""
+defunciones,2004,variable_added,,CCANCERU,
+defunciones,2004,variable_added,,CERTI1,
+defunciones,2004,variable_added,,DISED,
+defunciones,2004,variable_removed,,EDADN,
+defunciones,2004,variable_removed,,EDADR,
+defunciones,2004,variable_removed,,TIPOREG,
+defunciones,2004,code_added,prov_res,88,
+defunciones,2004,label_changed,prov_res,90,"""90 EXTERIOR"" -> ""90 ZONAS NO DELIMITADAS"""
+defunciones,2004,code_added,prov_occ,88,
+defunciones,2004,label_changed,prov_occ,90,"""90 EXTERIOR"" -> ""90 ZONAS NO DELIMITADAS"""
+defunciones,2005,variable_added,,DELC,
+defunciones,2005,variable_added,,LC,
+defunciones,2005,variable_added,,LCD,
+defunciones,2005,variable_added,,TIPOREG,
+defunciones,2005,variable_removed,,CCANCERU,
+defunciones,2005,variable_removed,,DISED,
+defunciones,2006,variable_added,,CERT,
+defunciones,2006,variable_added,,RN,
+defunciones,2006,variable_added,,UCANTF,
+defunciones,2006,variable_added,,UPARRF,
+defunciones,2006,variable_added,,UPROVF,
+defunciones,2007,variable_removed,,CAUS3670,
+defunciones,2007,variable_removed,,CAUS3671,
+defunciones,2007,variable_removed,,CERT,
+defunciones,2007,variable_removed,,CERTI1,
+defunciones,2007,variable_removed,,DELC,
+defunciones,2007,variable_removed,,LC,
+defunciones,2007,variable_removed,,LCD,
+defunciones,2007,variable_removed,,RN,
+defunciones,2007,variable_removed,,T,
+defunciones,2007,variable_removed,,TIPOREG,
+defunciones,2007,variable_removed,,UCANTF,
+defunciones,2007,variable_removed,,UPARRF,
+defunciones,2007,variable_removed,,UPROVF,
+defunciones,2007,label_changed,place_occ,4,"""4 HOSPITAL CLINICA CONSULTORIO"" -> ""4 HOSPITAL CLÍNICA CONSULTORIO"""
+defunciones,2008,variable_added,event_year,ANIOF,
+defunciones,2008,variable_added,reg_year,ANIOINS,
+defunciones,2008,variable_added,,ANION,
+defunciones,2008,variable_added,icd10,CAUSA4,
+defunciones,2008,variable_added,,causa80,
+defunciones,2008,variable_added,,CERT_POR,
+defunciones,2008,variable_added,age_unit,COD_EDA,
+defunciones,2008,variable_added,,CODESTA,
+defunciones,2008,variable_added,,MESINS,
+defunciones,2008,variable_added,,REGIONAL,
+defunciones,2008,variable_added,,ZONAF,
+defunciones,2008,variable_removed,,ANOF,
+defunciones,2008,variable_removed,,ANOI,
+defunciones,2008,variable_removed,,ANON,
+defunciones,2008,variable_removed,,CATEGORI,
+defunciones,2008,variable_removed,,CAUSA080,
+defunciones,2008,variable_removed,,CERTI,
+defunciones,2008,variable_removed,,CODI,
+defunciones,2008,variable_removed,,CODIGOEN,
+defunciones,2008,variable_removed,,EDADSO,
+defunciones,2008,variable_removed,,ESTAB1,
+defunciones,2008,variable_removed,,GRADO,
+defunciones,2008,variable_removed,,MESI,
+defunciones,2008,variable_removed,,NOTRABAJ,
+defunciones,2008,variable_removed,,OCUPA,
+defunciones,2008,variable_removed,,PROFE,
+defunciones,2008,variable_removed,,TRABAJA,
+defunciones,2008,variable_removed,,ZONA,
+defunciones,2008,variable_case_changed,,causa causa1 codcausa causa103 causa667,5 variables change letter case only
+defunciones,2008,source_renamed,event_year,ANOF -> ANIOF,
+defunciones,2008,source_renamed,reg_year,ANOI -> ANIOINS,
+defunciones,2008,source_renamed,age_unit,CODI -> COD_EDA,
+defunciones,2008,source_renamed,icd10,CODCAUSA -> CAUSA4,
+defunciones,2008,label_changed,age_unit,2,"""2 DIAS"" -> ""2 DÍAS"""
+defunciones,2008,code_added,prov_res,23 24,
+defunciones,2008,code_added,prov_occ,23 24,
+defunciones,2008,label_changed,place_occ,2,"""2 IESS"" -> ""2 ESTABLECIMIENTO DEL IESS"""
+defunciones,2009,variable_added,,AUTOPCIA,
+defunciones,2009,variable_added,,ETNIA,
+defunciones,2009,variable_added,,FDAL,
+defunciones,2009,variable_added,,MUE_VIOL,
+defunciones,2009,variable_removed,,ATENCION,
+defunciones,2009,variable_removed,,CONSULTA,
+defunciones,2009,variable_removed,,MESES,
+defunciones,2009,variable_case_changed,,CAUSA667 CAUSA80 CAUSA103,3 variables change letter case only
+defunciones,2010,variable_case_changed,,codesta prov cant parr anioins mesins acta estab ...,41 variables change letter case only
+defunciones,2011,variable_added,,acta_insc,
+defunciones,2011,variable_added,event_year,anio_fall,
+defunciones,2011,variable_added,reg_year,anio_insc,
+defunciones,2011,variable_added,,anio_nac,
+defunciones,2011,variable_added,,area_fall,
+defunciones,2011,variable_added,area_res,area_res,
+defunciones,2011,variable_added,cant_occ,cant_fall,
+defunciones,2011,variable_added,,cant_insc,
+defunciones,2011,variable_added,cant_res,cant_res,
+defunciones,2011,variable_added,,cauletra,
+defunciones,2011,variable_added,,causa4original,
+defunciones,2011,variable_added,,causa67A,
+defunciones,2011,variable_added,,causa67B,
+defunciones,2011,variable_added,age_unit,cod_edad,
+defunciones,2011,variable_added,,est_civ,
+defunciones,2011,variable_added,,fallecioaluz,
+defunciones,2011,variable_added,,lc,
+defunciones,2011,variable_added,place_occ,lugar_fall,
+defunciones,2011,variable_added,event_month,mes_fall,
+defunciones,2011,variable_added,,mes_insc,
+defunciones,2011,variable_added,,mes_nac,
+defunciones,2011,variable_added,,mu_matern,
+defunciones,2011,variable_added,,mu_violen,
+defunciones,2011,variable_added,,niv_inst,
+defunciones,2011,variable_added,,ofi_insc,
+defunciones,2011,variable_added,,p_etnica,
+defunciones,2011,variable_added,,parr_fall,
+defunciones,2011,variable_added,,parr_insc,
+defunciones,2011,variable_added,,parr_res,
+defunciones,2011,variable_added,,pro_med,
+defunciones,2011,variable_added,prov_occ,prov_fall,
+defunciones,2011,variable_added,,prov_insc,
+defunciones,2011,variable_added,prov_res,prov_res,
+defunciones,2011,variable_added,,reg_fall,
+defunciones,2011,variable_added,,reg_res,
+defunciones,2011,variable_added,,sabe_leer,
+defunciones,2011,variable_added,,tipo_cert,
+defunciones,2011,variable_removed,,acta,
+defunciones,2011,variable_removed,,aniof,
+defunciones,2011,variable_removed,,anioins,
+defunciones,2011,variable_removed,,anion,
+defunciones,2011,variable_removed,,autopcia,
+defunciones,2011,variable_removed,,cant,
+defunciones,2011,variable_removed,,cantf,
+defunciones,2011,variable_removed,,cantr,
+defunciones,2011,variable_removed,,CAUSA1,
+defunciones,2011,variable_removed,,CAUSA667,
+defunciones,2011,variable_removed,,cod_eda,
+defunciones,2011,variable_removed,,CODCAUSA,
+defunciones,2011,variable_removed,,codesta,
+defunciones,2011,variable_removed,,estab,
+defunciones,2011,variable_removed,,estado,
+defunciones,2011,variable_removed,,etnia,
+defunciones,2011,variable_removed,,fdal,
+defunciones,2011,variable_removed,,leer,
+defunciones,2011,variable_removed,,mesf,
+defunciones,2011,variable_removed,,mesins,
+defunciones,2011,variable_removed,,mesn,
+defunciones,2011,variable_removed,,mue_viol,
+defunciones,2011,variable_removed,,nivel,
+defunciones,2011,variable_removed,,ocurrio,
+defunciones,2011,variable_removed,,parr,
+defunciones,2011,variable_removed,,parrf,
+defunciones,2011,variable_removed,,parrr,
+defunciones,2011,variable_removed,,prov,
+defunciones,2011,variable_removed,,provf,
+defunciones,2011,variable_removed,,provr,
+defunciones,2011,variable_removed,,regional,
+defunciones,2011,variable_removed,,zonaf,
+defunciones,2011,variable_removed,,zonar,
+defunciones,2011,variable_case_changed,,causa causa80 causa103,3 variables change letter case only
+defunciones,2011,source_renamed,event_year,aniof -> anio_fall,
+defunciones,2011,source_renamed,event_month,mesf -> mes_fall,
+defunciones,2011,source_renamed,reg_year,anioins -> anio_insc,
+defunciones,2011,source_renamed,age_unit,cod_eda -> cod_edad,
+defunciones,2011,source_renamed,prov_res,provr -> prov_res,
+defunciones,2011,source_renamed,cant_res,cantr -> cant_res,
+defunciones,2011,source_renamed,prov_occ,provf -> prov_fall,
+defunciones,2011,source_renamed,cant_occ,cantf -> cant_fall,
+defunciones,2011,source_renamed,area_res,zonar -> area_res,
+defunciones,2011,source_renamed,place_occ,ocurrio -> lugar_fall,
+defunciones,2011,code_added,sex,01 02,
+defunciones,2011,code_removed,sex,1 2,
+defunciones,2011,code_added,age_unit,01 02 03 04 99,
+defunciones,2011,code_removed,age_unit,1 2 3 4 9,
+defunciones,2011,code_added,prov_res,01 02 03 04 05 06 07 08 09,
+defunciones,2011,code_removed,prov_res,1 2 3 4 5 6 7 8 9,
+defunciones,2011,label_changed,prov_res,19,"""19 ZAMORA"" -> ""Zamora Chinchipe"""
+defunciones,2011,label_changed,prov_res,13,"""13 MANABI"" -> ""Manabí"""
+defunciones,2011,label_changed,prov_res,21,"""21 SUCUMBIOS"" -> ""Sucumbíos"""
+defunciones,2011,label_changed,prov_res,12,"""12 LOS RIOS"" -> ""Los Ríos"""
+defunciones,2011,label_changed,prov_res,20,"""20 GALAPAGOS"" -> ""Galápagos"""
+defunciones,2011,label_changed,prov_res,90,"""90 ZONAS NO DELIMITADAS"" -> ""Zona no delimitada"""
+defunciones,2011,label_changed,prov_res,14,"""14 MORONA"" -> ""Morona Santiago"""
+defunciones,2011,label_changed,prov_res,23,"""23 SANTO DOMINGO DE LOS TSACHILAS"" -> ""Santo Domingo de los Tsáchilas"""
+defunciones,2011,code_added,prov_occ,01 02 03 04 05 06 07 08 09,
+defunciones,2011,code_removed,prov_occ,1 2 3 4 5 6 7 8 9,
+defunciones,2011,label_changed,prov_occ,19,"""19 ZAMORA"" -> ""Zamora Chinchipe"""
+defunciones,2011,label_changed,prov_occ,13,"""13 MANABI"" -> ""Manabí"""
+defunciones,2011,label_changed,prov_occ,21,"""21 SUCUMBIOS"" -> ""Sucumbíos"""
+defunciones,2011,label_changed,prov_occ,12,"""12 LOS RIOS"" -> ""Los Ríos"""
+defunciones,2011,label_changed,prov_occ,20,"""20 GALAPAGOS"" -> ""Galápagos"""
+defunciones,2011,label_changed,prov_occ,90,"""90 ZONAS NO DELIMITADAS"" -> ""Zona no delimitada"""
+defunciones,2011,label_changed,prov_occ,14,"""14 MORONA"" -> ""Morona Santiago"""
+defunciones,2011,label_changed,prov_occ,23,"""23 SANTO DOMINGO DE LOS TSACHILAS"" -> ""Santo Domingo de los Tsáchilas"""
+defunciones,2011,code_added,area_res,01 02 99,
+defunciones,2011,code_removed,area_res,1 2 3,
+defunciones,2011,code_added,residente,01 02 99,
+defunciones,2011,code_removed,residente,1 2,
+defunciones,2011,code_added,place_occ,01 02 03 04 05 06,
+defunciones,2011,code_removed,place_occ,1 2 3 4 5 6,
+defunciones,2012,variable_added,,causa667,
+defunciones,2012,variable_added,,cer_por,
+defunciones,2012,variable_added,,certimed,
+defunciones,2012,variable_added,,cod_esta,
+defunciones,2012,variable_added,,codigo,
+defunciones,2012,variable_added,,dias,
+defunciones,2012,variable_added,,dised14,
+defunciones,2012,variable_added,,est_civil,
+defunciones,2012,variable_added,,gcausa,
+defunciones,2012,variable_added,,gcausa103,
+defunciones,2012,variable_added,,gedad,
+defunciones,2012,variable_added,,gedad1,
+defunciones,2012,variable_added,,gedad2,
+defunciones,2012,variable_added,,gedad3,
+defunciones,2012,variable_added,,grucau11,
+defunciones,2012,variable_added,,grupoedad,
+defunciones,2012,variable_added,,grupoedad1,
+defunciones,2012,variable_added,,lc1,
+defunciones,2012,variable_added,,lceti,
+defunciones,2012,variable_added,,lcnum,
+defunciones,2012,variable_added,,lugar_muviolen,
+defunciones,2012,variable_added,place_occ,lugar_ocur,
+defunciones,2012,variable_added,,meses,
+defunciones,2012,variable_added,,mor_mat,
+defunciones,2012,variable_added,,paren_fall,
+defunciones,2012,variable_added,,redad1,
+defunciones,2012,variable_added,residente,residente,
+defunciones,2012,variable_added,,t1,
+defunciones,2012,variable_added,,tipo_cer,
+defunciones,2012,variable_removed,,causa4original,
+defunciones,2012,variable_removed,,cert_por,
+defunciones,2012,variable_removed,,embara,
+defunciones,2012,variable_removed,,est_civ,
+defunciones,2012,variable_removed,,fallecioaluz,
+defunciones,2012,variable_removed,,lc,
+defunciones,2012,variable_removed,,lugar_fall,
+defunciones,2012,variable_removed,,paren,
+defunciones,2012,variable_removed,,resident,
+defunciones,2012,variable_removed,,semana6,
+defunciones,2012,variable_removed,,tipo_cert,
+defunciones,2012,source_renamed,residente,resident -> residente,
+defunciones,2012,source_renamed,place_occ,lugar_fall -> lugar_ocur,
+defunciones,2012,code_added,sex,1 2,
+defunciones,2012,code_removed,sex,01 02,
+defunciones,2012,code_added,age_unit,1 2 3 4 9,
+defunciones,2012,code_removed,age_unit,01 02 03 04 99,
+defunciones,2012,label_changed,prov_res,21,"""Sucumbíos"" -> ""Sucumbios"""
+defunciones,2012,label_changed,prov_occ,21,"""Sucumbíos"" -> ""Sucumbios"""
+defunciones,2012,label_changed,prov_occ,23,"""Santo Domingo de los Tsáchilas"" -> ""Santo domingo"""
+defunciones,2012,code_added,area_res,1 2 9,
+defunciones,2012,code_removed,area_res,01 02 99,
+defunciones,2012,code_added,residente,1 2,
+defunciones,2012,code_removed,residente,01 02 99,
+defunciones,2012,code_added,place_occ,1 2 3 4 5 6 7,
+defunciones,2012,code_removed,place_occ,01 02 03 04 05 06,
+defunciones,2013,variable_added,,autopsia,
+defunciones,2013,variable_added,,cod_pais,
+defunciones,2013,variable_added,,dia_fall,
+defunciones,2013,variable_added,,dia_insc,
+defunciones,2013,variable_added,,dia_nac,
+defunciones,2013,variable_added,,etnia,
+defunciones,2013,variable_added,,fecha_fall,
+defunciones,2013,variable_added,,fecha_insc,
+defunciones,2013,variable_added,,fecha_nac,
+defunciones,2013,variable_added,,folio,
+defunciones,2013,variable_added,,loc_fall,
+defunciones,2013,variable_added,,loc_res,
+defunciones,2013,variable_added,,lug_viol,
+defunciones,2013,variable_added,,mor_viol,
+defunciones,2013,variable_added,,nac_fall,
+defunciones,2013,variable_added,,parent_fall,
+defunciones,2013,variable_removed,,cauletra,
+defunciones,2013,variable_removed,,causa667,
+defunciones,2013,variable_removed,,certimed,
+defunciones,2013,variable_removed,,codigo,
+defunciones,2013,variable_removed,,dias,
+defunciones,2013,variable_removed,,dised14,
+defunciones,2013,variable_removed,,gcausa,
+defunciones,2013,variable_removed,,gcausa103,
+defunciones,2013,variable_removed,,gedad,
+defunciones,2013,variable_removed,,gedad1,
+defunciones,2013,variable_removed,,gedad2,
+defunciones,2013,variable_removed,,gedad3,
+defunciones,2013,variable_removed,,grucau11,
+defunciones,2013,variable_removed,,grupoedad,
+defunciones,2013,variable_removed,,grupoedad1,
+defunciones,2013,variable_removed,,lceti,
+defunciones,2013,variable_removed,,lcnum,
+defunciones,2013,variable_removed,,lugar_muviolen,
+defunciones,2013,variable_removed,,meses,
+defunciones,2013,variable_removed,,mu_matern,
+defunciones,2013,variable_removed,,mu_violen,
+defunciones,2013,variable_removed,,p_etnica,
+defunciones,2013,variable_removed,,paren_fall,
+defunciones,2013,variable_removed,,pro_med,
+defunciones,2013,variable_removed,,redad1,
+defunciones,2013,variable_removed,,reg_fall,
+defunciones,2013,variable_removed,,reg_res,
+defunciones,2013,variable_removed,residente,residente,
+defunciones,2013,variable_removed,,t1,
+defunciones,2013,variable_removed,,tipo_cer,
+defunciones,2013,std_var_no_longer_available,residente,residente,set to NA from this year
+defunciones,2013,label_changed,age_unit,9,"""Se ignora"" -> ""Ignorado"""
+defunciones,2013,label_changed,age_unit,4,"""Años cumplidos"" -> ""Años"""
+defunciones,2013,label_changed,prov_res,19,"""Zamora Chinchipe"" -> ""Zamora"""
+defunciones,2013,label_changed,prov_res,90,"""Zona no delimitada"" -> ""Zonas no Delimitadas"""
+defunciones,2013,label_changed,prov_res,02,"""Bolívar"" -> ""Bolivar"""
+defunciones,2013,label_changed,prov_res,21,"""Sucumbios"" -> ""Sucumbíos"""
+defunciones,2013,label_changed,prov_res,14,"""Morona Santiago"" -> ""Morona"""
+defunciones,2013,label_changed,prov_occ,19,"""Zamora Chinchipe"" -> ""Zamora"""
+defunciones,2013,label_changed,prov_occ,90,"""Zona no delimitada"" -> ""Zonas no Delimitadas"""
+defunciones,2013,label_changed,prov_occ,02,"""Bolívar"" -> ""Bolivar"""
+defunciones,2013,label_changed,prov_occ,13,"""Manabí"" -> ""Manabi"""
+defunciones,2013,label_changed,prov_occ,12,"""Los Ríos"" -> ""Los Rios"""
+defunciones,2013,label_changed,prov_occ,20,"""Galápagos"" -> ""Galapagos"""
+defunciones,2013,label_changed,prov_occ,14,"""Morona Santiago"" -> ""Morona"""
+defunciones,2013,label_changed,prov_occ,23,"""Santo domingo"" -> ""Santo Domingo de los Tsachilas"""
+defunciones,2013,code_removed,area_res,9,
+defunciones,2013,label_changed,place_occ,3,"""Establecimiento de la Junta de Beneficencia"" -> ""Junta de Beneficiencia"""
+defunciones,2013,label_changed,place_occ,5,"""Hospital, Clínica o Consultorio Privado"" -> ""Hospital Clínica/ Consultorio"""
+defunciones,2013,label_changed,place_occ,4,"""Otro Establecimiento Público"" -> ""Otro Establecimiento"""
+defunciones,2013,label_changed,place_occ,2,"""Establecimiento del IESS"" -> ""IESS"""
+defunciones,2013,label_changed,place_occ,1,"""Establecimiento del Ministerio de Salud"" -> ""Ministerio de Salud"""
+defunciones,2014,variable_added,,mor_relac,
+defunciones,2014,variable_removed,,acta_insc,
+defunciones,2014,variable_removed,,cod_esta,
+defunciones,2014,variable_removed,,folio,
+defunciones,2014,variable_removed,,loc_fall,
+defunciones,2014,variable_removed,,loc_res,
+defunciones,2014,label_changed,prov_res,19,"""Zamora"" -> ""Zamora Chinchipe"""
+defunciones,2014,label_changed,prov_res,02,"""Bolivar"" -> ""Bolívar"""
+defunciones,2014,label_changed,prov_res,14,"""Morona"" -> ""Morona Santiago"""
+defunciones,2014,label_changed,prov_occ,19,"""Zamora"" -> ""Zamora Chinchipe"""
+defunciones,2014,label_changed,prov_occ,02,"""Bolivar"" -> ""Bolívar"""
+defunciones,2014,label_changed,prov_occ,21,"""Sucumbios"" -> ""Sucumbíos"""
+defunciones,2014,label_changed,prov_occ,13,"""Manabi"" -> ""Manabí"""
+defunciones,2014,label_changed,prov_occ,12,"""Los Rios"" -> ""Los Ríos"""
+defunciones,2014,label_changed,prov_occ,20,"""Galapagos"" -> ""Galápagos"""
+defunciones,2014,label_changed,prov_occ,14,"""Morona"" -> ""Morona Santiago"""
+defunciones,2014,label_changed,prov_occ,23,"""Santo Domingo de los Tsachilas"" -> ""Santo Domingo de los Tsáchilas"""
+defunciones,2014,label_changed,place_occ,3,"""Junta de Beneficiencia"" -> ""Establecimientos de la Junta de Beneficiencia de Guayaquil"""
+defunciones,2014,label_changed,place_occ,5,"""Hospital Clínica/ Consultorio"" -> ""Hospital Clínica/ Consultorio privados"""
+defunciones,2014,label_changed,place_occ,4,"""Otro Establecimiento"" -> ""Otro establecimiento público"""
+defunciones,2014,label_changed,place_occ,2,"""IESS"" -> ""Establecimientos del IESS"""
+defunciones,2014,label_changed,place_occ,1,"""Ministerio de Salud"" -> ""Establecimientos del Ministerio de Salud Pública"""
+defunciones,2015,variable_added,,mort_mat,
+defunciones,2015,variable_added,,muj_fertil,
+defunciones,2015,variable_added,,Obser_mort_mat,
+defunciones,2015,variable_removed,cant_res,cant_res,
+defunciones,2015,variable_removed,,mor_mat,
+defunciones,2015,variable_removed,,mor_relac,
+defunciones,2015,variable_removed,,ofi_insc,
+defunciones,2015,variable_removed,,parent_fall,
+defunciones,2015,variable_removed,,parr_res,
+defunciones,2015,std_var_no_longer_available,cant_res,cant_res,set to NA from this year
+defunciones,2015,label_changed,place_occ,3,"""Establecimientos de la Junta de Beneficiencia de Guayaquil"" -> ""Establecimiento de la Junta de Beneficencia"""
+defunciones,2015,label_changed,place_occ,5,"""Hospital Clínica/ Consultorio privados"" -> ""Hospital, clínica o consultorio particular"""
+defunciones,2015,label_changed,place_occ,4,"""Otro establecimiento público"" -> ""Otro establecimiento del estado"""
+defunciones,2015,label_changed,place_occ,2,"""Establecimientos del IESS"" -> ""Establecimiento del I.E.S.S."""
+defunciones,2015,label_changed,place_occ,1,"""Establecimientos del Ministerio de Salud Pública"" -> ""Establecimiento del Ministerio de Salud"""
+defunciones,2016,variable_added,,mor_mat,
+defunciones,2016,variable_removed,,mort_mat,
+defunciones,2016,variable_case_changed,,obser_mort_mat,1 variables change letter case only
+defunciones,2016,label_changed,age_unit,9,"""Ignorado"" -> ""Sin información"""
+defunciones,2016,label_changed,age_unit,2,"""Días"" -> ""Dias"""
+defunciones,2016,label_changed,prov_res,02,"""Bolívar"" -> ""Bolivar"""
+defunciones,2016,label_changed,prov_res,21,"""Sucumbíos"" -> ""Sucumbios"""
+defunciones,2016,label_changed,prov_res,13,"""Manabí"" -> ""Manabi"""
+defunciones,2016,label_changed,prov_res,12,"""Los Ríos"" -> ""Los Rios"""
+defunciones,2016,label_changed,prov_res,20,"""Galápagos"" -> ""Galapagos"""
+defunciones,2016,label_changed,prov_res,23,"""Santo Domingo de los Tsáchilas"" -> ""Santo Domingo De Los Tsachilas"""
+defunciones,2016,label_changed,prov_occ,02,"""Bolívar"" -> ""Bolivar"""
+defunciones,2016,label_changed,prov_occ,21,"""Sucumbíos"" -> ""Sucumbios"""
+defunciones,2016,label_changed,prov_occ,13,"""Manabí"" -> ""Manabi"""
+defunciones,2016,label_changed,prov_occ,12,"""Los Ríos"" -> ""Los Rios"""
+defunciones,2016,label_changed,prov_occ,20,"""Galápagos"" -> ""Galapagos"""
+defunciones,2016,label_changed,prov_occ,23,"""Santo Domingo de los Tsáchilas"" -> ""Santo Domingo De Los Tsachilas"""
+defunciones,2016,label_changed,place_occ,7,"""Otro"" -> ""OTRO (Especifique)"""
+defunciones,2016,label_changed,place_occ,5,"""Hospital, clínica o consultorio particular"" -> ""Hospital; Clinica o Consultorio Privado"""
+defunciones,2016,label_changed,place_occ,4,"""Otro establecimiento del estado"" -> ""Otro Establecimiento Público(Municipios,Consejos Provinciales,FF.AA, Policia, etc.)"""
+defunciones,2017,variable_removed,,obser_mort_mat,
+defunciones,2017,label_changed,age_unit,2,"""Dias"" -> ""Días"""
+defunciones,2017,label_changed,prov_res,90,"""Zonas No Delimitadas"" -> ""Zona no delimitada"""
+defunciones,2017,label_changed,prov_res,02,"""Bolivar"" -> ""Bolívar"""
+defunciones,2017,label_changed,prov_res,21,"""Sucumbios"" -> ""Sucumbíos"""
+defunciones,2017,label_changed,prov_res,13,"""Manabi"" -> ""Manabí"""
+defunciones,2017,label_changed,prov_res,12,"""Los Rios"" -> ""Los Ríos"""
+defunciones,2017,label_changed,prov_res,20,"""Galapagos"" -> ""Galápagos"""
+defunciones,2017,label_changed,prov_res,23,"""Santo Domingo De Los Tsachilas"" -> ""Santo Domingo de los Tsáchilas"""
+defunciones,2017,label_changed,prov_occ,90,"""Zonas No Delimitadas"" -> ""Zona no delimitada"""
+defunciones,2017,label_changed,prov_occ,02,"""Bolivar"" -> ""Bolívar"""
+defunciones,2017,label_changed,prov_occ,21,"""Sucumbios"" -> ""Sucumbíos"""
+defunciones,2017,label_changed,prov_occ,13,"""Manabi"" -> ""Manabí"""
+defunciones,2017,label_changed,prov_occ,12,"""Los Rios"" -> ""Los Ríos"""
+defunciones,2017,label_changed,prov_occ,20,"""Galapagos"" -> ""Galápagos"""
+defunciones,2017,label_changed,prov_occ,23,"""Santo Domingo De Los Tsachilas"" -> ""Santo Domingo de los Tsáchilas"""
+defunciones,2017,label_changed,area_res,1,"""Urbana"" -> ""Urbano"""
+defunciones,2017,label_changed,place_occ,7,"""OTRO (Especifique)"" -> ""Otro"""
+defunciones,2017,label_changed,place_occ,3,"""Establecimiento de la Junta de Beneficencia"" -> ""Establecimientos de la Junta de Beneficencia"""
+defunciones,2017,label_changed,place_occ,5,"""Hospital; Clinica o Consultorio Privado"" -> ""Hospital, clínica o consultorio privado"""
+defunciones,2017,label_changed,place_occ,4,"""Otro Establecimiento Público(Municipios,Consejos Provinciales,FF.AA, Policia, etc.)"" -> ""Otros establecimientos públicos"""
+defunciones,2017,label_changed,place_occ,2,"""Establecimiento del IESS"" -> ""Establecimientos del IESS"""
+defunciones,2017,label_changed,place_occ,1,"""Establecimiento del Ministerio de Salud"" -> ""Establecimientos del Ministerio de Salud"""
+defunciones,2018,variable_added,,Númeración,
+defunciones,2018,variable_added,residente,residente,
+defunciones,2018,variable_removed,,mor_mat,
+defunciones,2018,std_var_now_available,residente,residente,
+defunciones,2018,label_changed,prov_res,90,"""Zona no delimitada"" -> ""Zonas no Delimitadas"""
+defunciones,2018,label_changed,prov_res,20,"""Galápagos"" -> ""Galapagos"""
+defunciones,2018,label_changed,prov_occ,90,"""Zona no delimitada"" -> ""Zonas no Delimitadas"""
+defunciones,2018,label_changed,prov_occ,20,"""Galápagos"" -> ""Galapagos"""
+defunciones,2019,code_removed,prov_occ,88 90,
+defunciones,2020,variable_added,,Numeración,
+defunciones,2020,variable_removed,,muj_fertil,
+defunciones,2020,variable_removed,,Númeración,
+defunciones,2020,label_changed,area_res,1,"""Urbano"" -> ""Urbana"""
+defunciones,2020,code_added,place_occ,9,
+defunciones,2021,variable_added,,muj_fertil,
+defunciones,2021,variable_added,,Numeracion,
+defunciones,2021,variable_removed,,Numeración,
+defunciones,2021,label_changed,area_res,1,"""Urbana"" -> ""Urbano"""
+defunciones,2022,label_changed,prov_occ,20,"""Galapagos"" -> ""Galápagos"""
+defunciones,2023,variable_added,,Numeración,
+defunciones,2023,variable_removed,,Numeracion,
+egresos,2000,baseline,,,first year in the series
+egresos,2001,code_added,prov_res,50,
+egresos,2001,code_added,prov_occ,50,
+egresos,2002,variable_added,event_year,ANIESTAD,
+egresos,2002,variable_added,adm_year,ANIINGPA,
+egresos,2002,variable_added,,BOLESTSA,
+egresos,2002,variable_added,cant_res,CANRESPA,
+egresos,2002,variable_added,cant_occ,CANUBIES,
+egresos,2002,variable_added,icd10,CAU10ARE,
+egresos,2002,variable_added,,CAU221RX,
+egresos,2002,variable_added,,CAU298RX,
+egresos,2002,variable_added,,CLAESTSA,
+egresos,2002,variable_added,,CODESTAD,
+egresos,2002,variable_added,age_unit,CONEDADP,
+egresos,2002,variable_added,discharge_cond,CONEGRPA,
+egresos,2002,variable_added,,DIAEGRPA,
+egresos,2002,variable_added,los_days,DIAESTAD,
+egresos,2002,variable_added,,DIAINGPA,
+egresos,2002,variable_added,age_value,EDAPACIE,
+egresos,2002,variable_added,,ENTESTSA,
+egresos,2002,variable_added,,ESTSALUD,
+egresos,2002,variable_added,event_month,MESEGRPA,
+egresos,2002,variable_added,,MESESTAD,
+egresos,2002,variable_added,adm_month,MESINGPA,
+egresos,2002,variable_added,,ORDEGRPA,
+egresos,2002,variable_added,,PARRESPA,
+egresos,2002,variable_added,,PARUBIES,
+egresos,2002,variable_added,prov_res,PRORESPA,
+egresos,2002,variable_added,prov_occ,PROUBIES,
+egresos,2002,variable_added,sector,SECESTSA,
+egresos,2002,variable_added,sex,SEXPACIE,
+egresos,2002,variable_added,,TIPESTSA,
+egresos,2002,variable_removed,,ANI_ESTADI,
+egresos,2002,variable_removed,,ANI_INGPAC,
+egresos,2002,variable_removed,,BOL_ESTSAL,
+egresos,2002,variable_removed,,CAN_RESPAC,
+egresos,2002,variable_removed,,CAU_10AREV,
+egresos,2002,variable_removed,,CAU_221R10,
+egresos,2002,variable_removed,,CAU_298R10,
+egresos,2002,variable_removed,,CLA_ESTSAL,
+egresos,2002,variable_removed,,COD_ESTADI,
+egresos,2002,variable_removed,,CON_EDADPA,
+egresos,2002,variable_removed,,CON_EGRPAC,
+egresos,2002,variable_removed,,DIA_EGRPAC,
+egresos,2002,variable_removed,,DIA_ESTADA,
+egresos,2002,variable_removed,,DIA_INGPAC,
+egresos,2002,variable_removed,,EDA_PACIEN,
+egresos,2002,variable_removed,,ENT_ESTSAL,
+egresos,2002,variable_removed,,MES_EGRPAC,
+egresos,2002,variable_removed,,MES_ESTADI,
+egresos,2002,variable_removed,,MES_INGPAC,
+egresos,2002,variable_removed,,ORD_EGRPAC,
+egresos,2002,variable_removed,,PAR_RESPAC,
+egresos,2002,variable_removed,,PRO_RESPAC,
+egresos,2002,variable_removed,,PRO_UBIEST,
+egresos,2002,variable_removed,,SEC_ESTSAL,
+egresos,2002,variable_removed,,SEX_PACIEN,
+egresos,2002,variable_removed,,TIP_ESTSAL,
+egresos,2002,source_renamed,event_month,MES_EGRPAC -> MESEGRPA,
+egresos,2002,source_renamed,adm_year,ANI_INGPAC -> ANIINGPA,
+egresos,2002,source_renamed,adm_month,MES_INGPAC -> MESINGPA,
+egresos,2002,source_renamed,sex,SEX_PACIEN -> SEXPACIE,
+egresos,2002,source_renamed,age_value,EDA_PACIEN -> EDAPACIE,
+egresos,2002,source_renamed,age_unit,CON_EDADPA -> CONEDADP,
+egresos,2002,source_renamed,prov_res,PRO_RESPAC -> PRORESPA,
+egresos,2002,source_renamed,cant_res,CAN_RESPAC -> CANRESPA,
+egresos,2002,source_renamed,prov_occ,PRO_UBIEST -> PROUBIES,
+egresos,2002,std_var_now_available,cant_occ,CANUBIES,
+egresos,2002,source_renamed,discharge_cond,CON_EGRPAC -> CONEGRPA,
+egresos,2002,source_renamed,los_days,DIA_ESTADA -> DIAESTAD,
+egresos,2002,source_renamed,sector,SEC_ESTSAL -> SECESTSA,
+egresos,2002,source_renamed,event_year,ANI_ESTADI -> ANIESTAD,
+egresos,2002,source_renamed,icd10,CAU_10AREV -> CAU10ARE,
+egresos,2002,code_added,prov_res,99,
+egresos,2002,code_added,prov_occ,88 90 99,
+egresos,2004,variable_removed,,ESTSALUD,
+egresos,2004,code_added,prov_res,88,
+egresos,2004,code_removed,prov_res,50,
+egresos,2004,label_changed,prov_res,90,"""EXTRANJERO"" -> ""ZONAS NO DELIMITADAS"""
+egresos,2004,code_removed,prov_occ,50,
+egresos,2006,variable_added,,ESTSALUD,
+egresos,2007,variable_added,,CAP221RX,
+egresos,2007,variable_added,,CAUSA3,
+egresos,2007,code_removed,prov_res,99,
+egresos,2007,label_changed,prov_res,90,"""ZONAS NO DELIMITADAS"" -> ""ZONA NO DELIMITA"""
+egresos,2007,label_changed,prov_res,88,"""EXTRANJERO"" -> ""EXTRANJERA"""
+egresos,2007,code_removed,prov_occ,99,
+egresos,2007,label_changed,prov_occ,90,"""ZONAS NO DELIMITADAS"" -> ""ZONA NO DELIMITA"""
+egresos,2007,label_changed,prov_occ,88,"""EXTRANJERO"" -> ""EXTRANJERA"""
+egresos,2008,code_added,prov_res,23 24,
+egresos,2008,code_added,prov_occ,23 24,
+egresos,2009,label_changed,prov_occ,23,"""STO DOMINGO"" -> ""STO DOMINGO DE LOS TSACHILAS"""
+egresos,2009,label_changed,discharge_cond,2,"""MENOS DE 48 HORAS"" -> ""Fallecido < 48H"""
+egresos,2009,label_changed,discharge_cond,3,"""48 HORAS Y MAS"" -> ""Fallecido 48H y más"""
+egresos,2009,label_changed,discharge_cond,1,"""ALTAS"" -> ""Alta"""
+egresos,2010,variable_case_changed,,codestad estsalud aniestad proubies canubies parubies claestsa tipestsa ...,31 variables change letter case only
+egresos,2010,code_removed,prov_occ,88 90,
+egresos,2010,label_changed,discharge_cond,2,"""Fallecido < 48H"" -> ""MENOS DE 48 HORAS"""
+egresos,2010,label_changed,discharge_cond,3,"""Fallecido 48H y más"" -> ""48 HORAS Y MAS"""
+egresos,2010,label_changed,discharge_cond,1,"""Alta"" -> ""ALTAS"""
+egresos,2011,variable_added,event_year,ani_inv,
+egresos,2011,variable_added,adm_year,anio_ingr,
+egresos,2011,variable_added,cant_res,cant_pac,
+egresos,2011,variable_added,cant_occ,cant_ubie,
+egresos,2011,variable_added,icd10,cau_cie10,
+egresos,2011,variable_added,,clase,
+egresos,2011,variable_added,,cod_est,
+egresos,2011,variable_added,discharge_cond,con_egrpa,
+egresos,2011,variable_added,age_unit,cond_edad,
+egresos,2011,variable_added,,dia_egr,
+egresos,2011,variable_added,los_days,dia_estad,
+egresos,2011,variable_added,,dia_ingr,
+egresos,2011,variable_added,age_value,edad_pac,
+egresos,2011,variable_added,,edad_repac,
+egresos,2011,variable_added,,entidad,
+egresos,2011,variable_added,event_month,mes_egr,
+egresos,2011,variable_added,adm_month,mes_ingr,
+egresos,2011,variable_added,,mes_inv,
+egresos,2011,variable_added,,negreso,
+egresos,2011,variable_added,,par_ubie,
+egresos,2011,variable_added,,parr_pac,
+egresos,2011,variable_added,prov_res,prov_pac,
+egresos,2011,variable_added,prov_occ,prov_ubie,
+egresos,2011,variable_added,sector,sector,
+egresos,2011,variable_added,sex,sexo_pac,
+egresos,2011,variable_added,,tipo,
+egresos,2011,variable_removed,,aniestad,
+egresos,2011,variable_removed,,aniingpa,
+egresos,2011,variable_removed,,bolestsa,
+egresos,2011,variable_removed,,canrespa,
+egresos,2011,variable_removed,,canubies,
+egresos,2011,variable_removed,,cau10are,
+egresos,2011,variable_removed,,causa3,
+egresos,2011,variable_removed,,claestsa,
+egresos,2011,variable_removed,,codestad,
+egresos,2011,variable_removed,,conedadp,
+egresos,2011,variable_removed,,conegrpa,
+egresos,2011,variable_removed,,diaegrpa,
+egresos,2011,variable_removed,,diaestad,
+egresos,2011,variable_removed,,diaingpa,
+egresos,2011,variable_removed,,edapacie,
+egresos,2011,variable_removed,,entestsa,
+egresos,2011,variable_removed,,estsalud,
+egresos,2011,variable_removed,,mesegrpa,
+egresos,2011,variable_removed,,mesestad,
+egresos,2011,variable_removed,,mesingpa,
+egresos,2011,variable_removed,,ordegrpa,
+egresos,2011,variable_removed,,parrespa,
+egresos,2011,variable_removed,,parubies,
+egresos,2011,variable_removed,,prorespa,
+egresos,2011,variable_removed,,proubies,
+egresos,2011,variable_removed,,secestsa,
+egresos,2011,variable_removed,,sexpacie,
+egresos,2011,variable_removed,,tipestsa,
+egresos,2011,source_renamed,event_month,mesegrpa -> mes_egr,
+egresos,2011,source_renamed,adm_year,aniingpa -> anio_ingr,
+egresos,2011,source_renamed,adm_month,mesingpa -> mes_ingr,
+egresos,2011,source_renamed,sex,sexpacie -> sexo_pac,
+egresos,2011,source_renamed,age_value,edapacie -> edad_pac,
+egresos,2011,source_renamed,age_unit,conedadp -> cond_edad,
+egresos,2011,source_renamed,prov_res,prorespa -> prov_pac,
+egresos,2011,source_renamed,cant_res,canrespa -> cant_pac,
+egresos,2011,source_renamed,prov_occ,proubies -> prov_ubie,
+egresos,2011,source_renamed,cant_occ,canubies -> cant_ubie,
+egresos,2011,source_renamed,discharge_cond,conegrpa -> con_egrpa,
+egresos,2011,source_renamed,los_days,diaestad -> dia_estad,
+egresos,2011,source_renamed,sector,secestsa -> sector,
+egresos,2011,source_renamed,event_year,aniestad -> ani_inv,
+egresos,2011,source_renamed,icd10,cau10are -> cau_cie10,
+egresos,2011,code_added,sex,01 02,
+egresos,2011,code_removed,sex,1 2,
+egresos,2011,code_added,age_unit,01 02 03 09,
+egresos,2011,code_removed,age_unit,1 2 3 9,
+egresos,2011,code_added,prov_occ,90,
+egresos,2011,code_added,discharge_cond,01 02 03,
+egresos,2011,code_removed,discharge_cond,1 2 3,
+egresos,2012,variable_added,,Causa3,
+egresos,2012,variable_added,,Parr_ubie,
+egresos,2012,variable_removed,,edad_repac,
+egresos,2012,variable_removed,,negreso,
+egresos,2012,variable_removed,,par_ubie,
+egresos,2012,variable_case_changed,,Cod_est Ani_inv Prov_ubie Cant_ubie Clase Tipo Entidad Sector ...,26 variables change letter case only
+egresos,2012,code_added,sex,1 2,
+egresos,2012,code_removed,sex,01 02,
+egresos,2012,code_added,age_unit,1 2 3 9,
+egresos,2012,code_removed,age_unit,01 02 03 09,
+egresos,2012,code_added,discharge_cond,1 2 3,
+egresos,2012,code_removed,discharge_cond,01 02 03,
+egresos,2013,variable_added,event_year,anio_egr,
+egresos,2013,variable_added,cant_res,cant_res,
+egresos,2013,variable_added,cant_occ,cant_ubi,
+egresos,2013,variable_added,age_unit,cod_edad,
+egresos,2013,variable_added,age_value,edad,
+egresos,2013,variable_added,,fecha_egr,
+egresos,2013,variable_added,,fecha_ingr,
+egresos,2013,variable_added,,parr_res,
+egresos,2013,variable_added,,parr_ubi,
+egresos,2013,variable_added,prov_res,prov_res,
+egresos,2013,variable_added,prov_occ,prov_ubi,
+egresos,2013,variable_added,sex,sexo,
+egresos,2013,variable_removed,,Ani_inv,
+egresos,2013,variable_removed,,Cant_pac,
+egresos,2013,variable_removed,,Cant_ubie,
+egresos,2013,variable_removed,,Cond_edad,
+egresos,2013,variable_removed,,Edad_pac,
+egresos,2013,variable_removed,,Parr_pac,
+egresos,2013,variable_removed,,Parr_ubie,
+egresos,2013,variable_removed,,Prov_pac,
+egresos,2013,variable_removed,,Prov_ubie,
+egresos,2013,variable_removed,,Sexo_pac,
+egresos,2013,variable_case_changed,,cod_est clase tipo entidad sector mes_inv dia_ingr mes_ingr ...,18 variables change letter case only
+egresos,2013,source_renamed,sex,Sexo_pac -> sexo,
+egresos,2013,source_renamed,age_value,Edad_pac -> edad,
+egresos,2013,source_renamed,age_unit,Cond_edad -> cod_edad,
+egresos,2013,source_renamed,prov_res,Prov_pac -> prov_res,
+egresos,2013,source_renamed,cant_res,Cant_pac -> cant_res,
+egresos,2013,source_renamed,prov_occ,Prov_ubie -> prov_ubi,
+egresos,2013,source_renamed,cant_occ,Cant_ubie -> cant_ubi,
+egresos,2013,source_renamed,event_year,Ani_inv -> anio_egr,
+egresos,2013,label_changed,age_unit,3,"""Años (1 a 98 años de edad)"" -> ""Anios (1 a 115 anios de edad)"""
+egresos,2013,label_changed,age_unit,1,"""Días (1 a 29 días de edad)"" -> ""Dias (1 a 29 dias de edad)"""
+egresos,2013,label_changed,prov_res,90,"""Zona no delimitada"" -> ""Zonas No Delimitadas"""
+egresos,2013,code_added,prov_occ,88,
+egresos,2013,label_changed,prov_occ,90,"""Zona no delimitada"" -> ""Zonas No Delimitadas"""
+egresos,2013,label_changed,discharge_cond,2,"""Fallecido < 48H"" -> ""Fallecido en menos de 48H"""
+egresos,2013,label_changed,discharge_cond,3,"""Fallecido 48H y más"" -> ""Fallecido en 48H y más"""
+egresos,2013,label_changed,sector,2,"""Sector Privado con Fines de Lucro"" -> ""Privado Con Fines de Lucro"""
+egresos,2013,label_changed,sector,3,"""Sector Privado sin Fines de Lucro"" -> ""Privado Sin Fines de Lucro"""
+egresos,2013,label_changed,sector,1,"""Sector Público"" -> ""Público"""
+egresos,2014,variable_added,,dis_pac,
+egresos,2014,variable_added,,etnia,
+egresos,2014,code_removed,age_unit,9,
+egresos,2014,label_changed,age_unit,3,"""Anios (1 a 115 anios de edad)"" -> ""Años (1 a 115 años de edad)"""
+egresos,2014,label_changed,age_unit,1,"""Dias (1 a 29 dias de edad)"" -> ""Días (1 a 28 días de edad)"""
+egresos,2014,label_changed,discharge_cond,2,"""Fallecido en menos de 48H"" -> ""Fallecido < 48H"""
+egresos,2014,label_changed,discharge_cond,3,"""Fallecido en 48H y más"" -> ""Fallecido 48H y más"""
+egresos,2014,label_changed,sector,3,"""Privado Sin Fines de Lucro"" -> ""Privado fin fines de lucro"""
+egresos,2015,variable_added,area_res,area_res,
+egresos,2015,variable_added,,area_ubi,
+egresos,2015,variable_added,,cod_pais,
+egresos,2015,variable_added,,esp_egrpa,
+egresos,2015,variable_added,,nac_pac,
+egresos,2015,variable_added,,nom_pais,
+egresos,2015,variable_removed,,cod_est,
+egresos,2015,variable_removed,,dis_pac,
+egresos,2015,std_var_now_available,area_res,area_res,
+egresos,2015,code_added,age_unit,4 9,
+egresos,2015,label_changed,age_unit,2,"""Meses (1 a 11 meses de edad)"" -> ""Días (1 a 28 días de edad)"""
+egresos,2015,label_changed,age_unit,3,"""Años (1 a 115 años de edad)"" -> ""Meses (1 a 11 meses de edad)"""
+egresos,2015,label_changed,age_unit,1,"""Días (1 a 28 días de edad)"" -> ""Horas (1 a 23 horas de edad)"""
+egresos,2015,label_changed,discharge_cond,2,"""Fallecido < 48H"" -> ""Fallecido menos de 48 horas"""
+egresos,2015,label_changed,discharge_cond,3,"""Fallecido 48H y más"" -> ""Fallecido en 48 horas y más"""
+egresos,2015,label_changed,discharge_cond,1,"""Alta"" -> ""Vivo"""
+egresos,2015,label_changed,sector,3,"""Privado fin fines de lucro"" -> ""Privado sin fines de lucro"""
+egresos,2017,code_added,sex,3,
+egresos,2018,label_changed,prov_res,20,"""Galápagos"" -> ""Galapagos"""
+egresos,2018,label_changed,prov_occ,20,"""Galápagos"" -> ""Galapagos"""
+egresos,2019,code_removed,prov_res,90,
+egresos,2019,label_changed,prov_res,20,"""Galapagos"" -> ""Galápagos"""
+egresos,2019,code_removed,prov_occ,90,
+egresos,2019,label_changed,prov_occ,20,"""Galapagos"" -> ""Galápagos"""
+egresos,2023,code_removed,sex,3,
+egresos,2024,variable_added,,dis_pac,
+egresos,2024,variable_added,,tipo_seg,
+egresos,2024,code_added,sex,3,
+egresos,2024,label_changed,age_unit,9,"""Ignorado"" -> ""Sin información"""
+egresos,2024,code_removed,prov_occ,88,
